@@ -1,3 +1,5 @@
+
+/*
 // Initialize butotn with users's prefered color
 let changeColor = document.getElementById("changeColor");
 
@@ -22,3 +24,32 @@ function setPageBackgroundColor() {
     document.body.style.backgroundColor = color;
   });
 }
+
+*/
+
+let popup = document.getElementById("popup");
+let site = document.getElementById("site");
+
+let url=""
+let a = "google.com"
+let result=""
+chrome.tabs.query({active: true, lastFocusedWindow: true}, tabs => {
+   url = tabs[0].url;
+  // use `url` here inside the callback because it's asynchronous!
+});
+
+
+
+
+popup.addEventListener("click", ()=> {
+  console.log("The URL of this page is: " + url)
+  if(url.match("google.com"))
+  {
+    result = a
+  }else{
+    result=url
+  }
+  site.textContent=result
+
+} );
+
