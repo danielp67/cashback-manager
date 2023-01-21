@@ -1,5 +1,7 @@
 // Reading the file using default
 // fs npm package
+const paramTrue = "X"
+const paramFalse = ""
 const fs = require("fs");
 csv = fs.readFileSync("data.csv")
 
@@ -61,6 +63,7 @@ for (let i = 1; i < array.length; i++) {
 
     }
 
+
 // Split the string using pipe delimiter |
 // and store the values in a properties array
     let propertiestmp = s.split("|")
@@ -69,11 +72,20 @@ for (let i = 1; i < array.length; i++) {
     for (let a=0; a<propertiestmp.length;a++)
     {
         let parse = propertiestmp[a]
-        if(!isNaN(propertiestmp[a]))
+        if(!isNaN(propertiestmp[a]) && !propertiestmp[a].match(""))
         {
             parse = parseInt(propertiestmp[a])
+        }else if (propertiestmp[a]===paramTrue){
+            parse=false
+
+        }
+        else if (propertiestmp[a]===paramFalse){
+            parse=true
+
         }
         properties.push(parse)
+
+
     }
 
 // For each header, if the value contains
