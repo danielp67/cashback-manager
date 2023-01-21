@@ -1,6 +1,4 @@
 
-console.log("test2")
-
 /*// Initialize butotn with users's prefered color
 let changeColor = document.getElementById("changeColor");
 
@@ -26,68 +24,62 @@ function setPageBackgroundColor() {
   });
 }*/
 
-
-
 let popup = document.getElementById("popup");
 let site = document.getElementById("site");
-
-let url=""
-let a = "google.com"
-let result=""
-/*
-chrome.tabs.query({active: true, lastFocusedWindow: true}, tabs => {
-   url = tabs[0].url;
-  // use `url` here inside the callback because it's asynchronous!
-});
-*/
-
-
-
-popup.addEventListener("click", ()=> {
-  console.log("The URL of this page is: " + url)
-
-
-  if(url.match("google.com"))
-  {
-    result = a
-  }else{
-    result=url
-  }
-  site.textContent=result
-
-} );
-
-let dd=""
-
-let jsonData = document.getElementById("json");
-
-
-
-/*fetch('./database/test.json')
-    .then((response) => response.json())
-    .then((json)=>
-{
-
-  console.log(json);
-  dd = json
-
-
-  console.log("dd2",dd)
-}
-);*/
-
+let label = ["website", "thecorner", "macif", "advango", "igraal", "widilo"]
+let match = false
 async function fetchData() {
-  const res=await fetch ('./database/test.json');
+  const res=await fetch ('./database/data.json');
   const json=await res.json();
+  const tabs = await chrome.tabs.query({active: true, lastFocusedWindow: true});
+  const url = await tabs[0].url;
 
-  document.getElementById("website").innerHTML=json[0].website;
-  document.getElementById("thecorner").innerHTML=json[0].thecorner;
-  document.getElementById("macif").innerHTML=json[0].macif;
-  document.getElementById("advango").innerHTML=json[0].advango;
-  document.getElementById("igraal").innerHTML=json[0].igraal;
-  document.getElementById("widilo").innerHTML=json[0].widilo;
+  console.log("url",url)
 
 
+
+  //console.log(url)
+  const index = await function index(){
+    for(let i=1; i<=json.length;i++)
+    {
+      console.log(json[0].url,i, url)
+      console.log(json[i].url, url)
+
+      if(url.includes(json[i].url))
+      {
+        console.log("match")
+       return i
+        break;
+      }
+    }
+  }
+
+  return[url, json]
 }
-fetchData();
-console.log("dd",dd)
+
+//setTimeout(() => {  fetchData(); }, 5000);
+fetchData()
+    // log response or catch error of fetch promise
+    .then((data) => {
+
+      const url = data[0]
+      const json = data[1]
+
+      for(let i=0; i<=json.length+1;i++)
+        {
+
+          if(url.includes(json[i].url))
+          {
+            match = true
+
+            for(let j=0; j<label.length;j++)
+            {
+              document.getElementById(label[j]).innerHTML=json[i][label[j]];
+
+            }
+          }
+      }
+
+    })
+    .catch((reason) => console.log("Message:" + reason.message));
+
