@@ -1,6 +1,6 @@
 // Reading the file using default
 // fs npm package
-const paramTrue = "X"
+const paramTrue = "x"
 const paramFalse = ""
 const fs = require("fs");
 csv = fs.readFileSync("data.csv")
@@ -72,9 +72,11 @@ for (let i = 1; i < array.length; i++) {
     for (let a=0; a<propertiestmp.length;a++)
     {
         let parse = propertiestmp[a]
-        if(!isNaN(propertiestmp[a]) && !propertiestmp[a].match(""))
+        if(parseInt(propertiestmp[a]))
         {
+
             parse = parseInt(propertiestmp[a])
+
         }else if (propertiestmp[a]===paramTrue){
             parse=true
 

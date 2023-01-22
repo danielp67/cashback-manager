@@ -1,1 +1,2202 @@
-[{"index":"1","url":"google.com","website":"google.com","thecorner":false,"macif":false,"advango":false,"igraal":false,"widilo":false},{"index":"2","url":"booking.com","website":"booking.com","thecorner":true,"macif":true,"advango":true,"igraal":true,"widilo":true},{"index":"3","url":"amazon.fr","website":"Amazon","thecorner":true,"macif":false,"advango":false,"igraal":false,"widilo":false}]
+[
+  {
+    "index": 1,
+    "url": "abritel",
+    "website": "Abritel",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 2,
+    "url": "adidas",
+    "website": "Adidas",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 3,
+    "url": "airbnb",
+    "website": "Airbnb",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 4,
+    "url": "alamo",
+    "website": "Alamo",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 5,
+    "url": "amazon.fr",
+    "website": "Amazon",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 6,
+    "url": "ampm",
+    "website": "AMPM",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 7,
+    "url": "asos",
+    "website": "ASOS",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 8,
+    "url": "auchan.fr",
+    "website": "Auchan",
+    "thecorner": true,
+    "macif": false,
+    "advango": true,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 9,
+    "url": "azureva",
+    "website": "Azureva",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 10,
+    "url": "babbel",
+    "website": "Babbel",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 11,
+    "url": "belambra",
+    "website": "Belambra",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 12,
+    "url": "booking.com",
+    "website": "booking.com",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 13,
+    "url": "carrefour",
+    "website": "Carrefour",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 14,
+    "url": "casino",
+    "website": "Casino",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 15,
+    "url": "castorama",
+    "website": "Castorama",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 16,
+    "url": "cdiscount",
+    "website": "Cdiscount",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 17,
+    "url": "celio",
+    "website": "Celio",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 18,
+    "url": "centerparcs.fr",
+    "website": "Center Parcs",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 19,
+    "url": "cgr",
+    "website": "CGR",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 20,
+    "url": "cheerz",
+    "website": "Cheerz",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 21,
+    "url": "conforama",
+    "website": "Conforama",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 22,
+    "url": "converse",
+    "website": "Converse",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 23,
+    "url": "cultura",
+    "website": "Cultura",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 24,
+    "url": "darty",
+    "website": "Darty",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 25,
+    "url": "decathlon ",
+    "website": "Decathlon ",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 26,
+    "url": "deezer",
+    "website": "Deezer",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 27,
+    "url": "dpam.com",
+    "website": "Du Pareil au Même",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 28,
+    "url": "enterprise",
+    "website": "Enterprise",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 29,
+    "url": "europcar",
+    "website": "Europcar",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 30,
+    "url": "expedia",
+    "website": "Expedia",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 31,
+    "url": "fnac",
+    "website": "Fnac",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 32,
+    "url": "galerieslafayette.com",
+    "website": "Galeries Lafayette",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 33,
+    "url": "garmin",
+    "website": "Garmin",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 34,
+    "url": "geantcasino.fr",
+    "website": "Géant Casino",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 35,
+    "url": "go-sport.com",
+    "website": "GO Sport",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 36,
+    "url": "google.com",
+    "website": "google.com",
+    "thecorner": false,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 37,
+    "url": "greenweez",
+    "website": "Greenweez",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 38,
+    "url": "hm.com",
+    "website": "H&M",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 39,
+    "url": "hotel.com",
+    "website": "Hotels",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 40,
+    "url": "hp.com",
+    "website": "HP",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 41,
+    "url": "i-run",
+    "website": "I-RUN",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 42,
+    "url": "ikea",
+    "website": "IKEA",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 43,
+    "url": "interflora",
+    "website": "Interflora",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 44,
+    "url": "keepcool.fr",
+    "website": "Keep Cool",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 45,
+    "url": "la cité de l’espace",
+    "website": "La Cité de l’Espace",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 46,
+    "url": "la grande récré",
+    "website": "La Grande Récré",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 47,
+    "url": "la redoute",
+    "website": "La Redoute",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 48,
+    "url": "lacoste",
+    "website": "Lacoste",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 49,
+    "url": "bhv.fr",
+    "website": "Le BHV",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 50,
+    "url": "leroymerlin.fr",
+    "website": "Leroy Merlin",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 51,
+    "url": "gentlemen-demenagement-andre.com",
+    "website": "Les GDD",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 52,
+    "url": "maisonsdumonde.com",
+    "website": "Maisons du Monde",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 53,
+    "url": "marionnaud",
+    "website": "Marionnaud",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 54,
+    "url": "mmv",
+    "website": "MMV",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 55,
+    "url": "monoprix",
+    "website": "Monoprix",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 56,
+    "url": "natalys",
+    "website": "Natalys",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 57,
+    "url": "national",
+    "website": "National",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 58,
+    "url": "natures&découvertes",
+    "website": "Natures&Découvertes",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 59,
+    "url": "netski",
+    "website": "Netski",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 60,
+    "url": "nike",
+    "website": "Nike",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 61,
+    "url": "odalys",
+    "website": "Odalys",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 62,
+    "url": "okaïdi",
+    "website": "Okaïdi",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 63,
+    "url": "orchestra",
+    "website": "Orchestra",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 64,
+    "url": "ovoyages",
+    "website": "Ovoyages",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 65,
+    "url": "oxybul",
+    "website": "Oxybul",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 66,
+    "url": "parc spirou",
+    "website": "Parc Spirou",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 67,
+    "url": "pathe.fr",
+    "website": "Pathé Gaumont",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 68,
+    "url": "promosejours.com",
+    "website": "Promoséjours",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 69,
+    "url": "quitoque",
+    "website": "Quitoque",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 70,
+    "url": "reebok",
+    "website": "Reebok",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 71,
+    "url": "sergent major",
+    "website": "Sergent Major",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 72,
+    "url": "spartoo",
+    "website": "Spartoo",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 73,
+    "url": "terrabotanica.fr",
+    "website": "Terra Botanica",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 74,
+    "url": "thekooples.com",
+    "website": "The Kooples",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 75,
+    "url": "tohapi",
+    "website": "Tohapi",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 76,
+    "url": "truffaut",
+    "website": "Truffaut",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 77,
+    "url": "ubereats.com",
+    "website": "Uber Eats",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 78,
+    "url": "uber.com",
+    "website": "Uber VTC",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 79,
+    "url": "vestiairecollective.com",
+    "website": "Vestiaire collective",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 80,
+    "url": "vvf.fr",
+    "website": "VVF Villages",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 81,
+    "url": "wonderbox",
+    "website": "Wonderbox",
+    "thecorner": true,
+    "macif": false,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 82,
+    "url": "yves-rocher.fr",
+    "website": "Yves Rocher ",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 83,
+    "url": "zalando",
+    "website": "Zalando",
+    "thecorner": true,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 84,
+    "url": "3suisses.fr",
+    "website": "3suisses",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 85,
+    "url": "abrideal",
+    "website": "abrideal",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 86,
+    "url": "action-sejours",
+    "website": "action-sejours",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 87,
+    "url": "adagio",
+    "website": "adagio",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 88,
+    "url": "adidas",
+    "website": "adidas",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 89,
+    "url": "aec",
+    "website": "aec",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 90,
+    "url": "allodiagnostic",
+    "website": "allodiagnostic",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 91,
+    "url": "allovoisins",
+    "website": "allovoisins",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 92,
+    "url": "american-village",
+    "website": "american-village",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 93,
+    "url": "anacours",
+    "website": "anacours",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 94,
+    "url": "aterno",
+    "website": "aterno",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 95,
+    "url": "audika",
+    "website": "audika",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 96,
+    "url": "auto-avantages",
+    "website": "auto-avantages",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 97,
+    "url": "autosur",
+    "website": "autosur",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 98,
+    "url": "azureva",
+    "website": "azureva",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 99,
+    "url": "belambra",
+    "website": "belambra",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 100,
+    "url": "berceau-magique",
+    "website": "berceau-magique",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 101,
+    "url": "bestdrive",
+    "website": "bestdrive",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 102,
+    "url": "bijourama",
+    "website": "bijourama",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 103,
+    "url": "bravo-club",
+    "website": "bravo-club",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 104,
+    "url": "brico-prive",
+    "website": "brico-prive",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 105,
+    "url": "cadeaux.com",
+    "website": "cadeaux.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 106,
+    "url": "campingandco",
+    "website": "campingandco",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 107,
+    "url": "campings.com",
+    "website": "campings.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 108,
+    "url": "carizy",
+    "website": "carizy",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 109,
+    "url": "certec",
+    "website": "certec",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 110,
+    "url": "cinecheque",
+    "website": "cinecheque",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 111,
+    "url": "clc",
+    "website": "clc",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 112,
+    "url": "comptoir-de-lhomme",
+    "website": "comptoir-de-lhomme",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 113,
+    "url": "costa",
+    "website": "costa",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 114,
+    "url": "courtepaille",
+    "website": "courtepaille",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 115,
+    "url": "darty-cuisine",
+    "website": "darty-cuisine",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 116,
+    "url": "declikdeco.com",
+    "website": "declikdeco.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 117,
+    "url": "dell",
+    "website": "dell",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 118,
+    "url": "delsey",
+    "website": "delsey",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 119,
+    "url": "demeco",
+    "website": "demeco",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 120,
+    "url": "domitys",
+    "website": "domitys",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 121,
+    "url": "dream-act",
+    "website": "dream-act",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 122,
+    "url": "e-mobilia",
+    "website": "e-mobilia",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 123,
+    "url": "edreams",
+    "website": "edreams",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 124,
+    "url": "en-voiture-simone",
+    "website": "en-voiture-simone",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 125,
+    "url": "engie-my-power",
+    "website": "engie-my-power",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 126,
+    "url": "eplaque.com",
+    "website": "eplaque.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 127,
+    "url": "ethiquable",
+    "website": "ethiquable",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 128,
+    "url": "euromaster",
+    "website": "euromaster",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 129,
+    "url": "experveo",
+    "website": "experveo",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 130,
+    "url": "fairmoove",
+    "website": "fairmoove",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 131,
+    "url": "fram",
+    "website": "fram",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 132,
+    "url": "francaise-des-circuits",
+    "website": "francaise-des-circuits",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 133,
+    "url": "gironde-et-gascogne",
+    "website": "gironde-et-gascogne",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 134,
+    "url": "go-voyages",
+    "website": "go-voyages",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 135,
+    "url": "goelia",
+    "website": "goelia",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 136,
+    "url": "groupon",
+    "website": "groupon",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 137,
+    "url": "heliades",
+    "website": "heliades",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 138,
+    "url": "homair",
+    "website": "homair",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 139,
+    "url": "hotel-pour-tous",
+    "website": "hotel-pour-tous",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 140,
+    "url": "inemotion",
+    "website": "inemotion",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 141,
+    "url": "interhome",
+    "website": "interhome",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 142,
+    "url": "interiors",
+    "website": "interiors",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 143,
+    "url": "intersport",
+    "website": "intersport",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 144,
+    "url": "jbl",
+    "website": "jbl",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 145,
+    "url": "jet-tours",
+    "website": "jet-tours",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 146,
+    "url": "jho",
+    "website": "jho",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 147,
+    "url": "kappa-club",
+    "website": "kappa-club",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 148,
+    "url": "karcher",
+    "website": "karcher",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 149,
+    "url": "la-becanerie",
+    "website": "la-becanerie",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 150,
+    "url": "la-billetterie",
+    "website": "la-billetterie",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 151,
+    "url": "la-france-du-nord-au-sud",
+    "website": "la-france-du-nord-au-sud",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 152,
+    "url": "lashootingbox",
+    "website": "lashootingbox",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 153,
+    "url": "le.comparateur-de-voyages",
+    "website": "le.comparateur-de-voyages",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 154,
+    "url": "le-grand-dressing",
+    "website": "le-grand-dressing",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 155,
+    "url": "le-ski-du-nord-au-sud",
+    "website": "le-ski-du-nord-au-sud",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 156,
+    "url": "lemon-curve",
+    "website": "lemon-curve",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 157,
+    "url": "les-gentlemen-du-demenagement",
+    "website": "les-gentlemen-du-demenagement",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 158,
+    "url": "lespagne-du-nord-au-sud",
+    "website": "lespagne-du-nord-au-sud",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 159,
+    "url": "lg.com",
+    "website": "lg",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 160,
+    "url": "macif-avantages-la-presse-avec-viapresse",
+    "website": "macif-avantages-la-presse-avec-viapresse",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 161,
+    "url": "macif-centre-de-voile",
+    "website": "macif-centre-de-voile",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 162,
+    "url": "made-in-france-box",
+    "website": "made-in-france-box",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 163,
+    "url": "maeva",
+    "website": "maeva",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 164,
+    "url": "maxicours.com",
+    "website": "maxicours.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 165,
+    "url": "mencorner",
+    "website": "mencorner",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 166,
+    "url": "metacoaching",
+    "website": "metacoaching",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 167,
+    "url": "mileade",
+    "website": "mileade",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 168,
+    "url": "mmv",
+    "website": "mmv",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 169,
+    "url": "mondial-tourisme",
+    "website": "mondial-tourisme",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 170,
+    "url": "msc",
+    "website": "msc",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 171,
+    "url": "neaclub",
+    "website": "neaclub",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 172,
+    "url": "nemea",
+    "website": "nemea",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 173,
+    "url": "obvy",
+    "website": "obvy",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 174,
+    "url": "opodo",
+    "website": "opodo",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 175,
+    "url": "orisques-floodsax-quickdam",
+    "website": "orisques-floodsax-quickdam",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 176,
+    "url": "palmiers-ocean",
+    "website": "palmiers-ocean",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 177,
+    "url": "pandaloc",
+    "website": "pandaloc",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 178,
+    "url": "petite-marelle",
+    "website": "petite-marelle",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 179,
+    "url": "photobox",
+    "website": "photobox",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 180,
+    "url": "pierre-vacances",
+    "website": "pierre-vacances",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 181,
+    "url": "plein-vent",
+    "website": "plein-vent",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 182,
+    "url": "portaventura-world",
+    "website": "portaventura-world",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 183,
+    "url": "promovacances",
+    "website": "promovacances",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 184,
+    "url": "r-pur",
+    "website": "r-pur",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 185,
+    "url": "radical-storage",
+    "website": "radical-storage",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 186,
+    "url": "rebuy",
+    "website": "rebuy",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 187,
+    "url": "recommerce",
+    "website": "recommerce",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 188,
+    "url": "rentalcars.com",
+    "website": "rentalcars.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 189,
+    "url": "reparcar.com",
+    "website": "reparcar.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 190,
+    "url": "rivages-du-monde",
+    "website": "rivages-du-monde",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 191,
+    "url": "saint-maclou",
+    "website": "saint-maclou",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 192,
+    "url": "samsung",
+    "website": "samsung",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 193,
+    "url": "securcles.com",
+    "website": "securcles.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 194,
+    "url": "securkeys",
+    "website": "securkeys",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 195,
+    "url": "shd-detecteurs-de-fumee-de-monoxyde-et-kit-sourds-et-malentendants",
+    "website": "shd-detecteurs-de-fumee-de-monoxyde-et-kit-sourds-et-malentendants",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 196,
+    "url": "showroomprive.com",
+    "website": "showroomprive.com",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 197,
+    "url": "skiset",
+    "website": "skiset",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 198,
+    "url": "smartbox",
+    "website": "smartbox",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 199,
+    "url": "sports-elite-jeunes",
+    "website": "sports-elite-jeunes",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 200,
+    "url": "tollens",
+    "website": "tollens",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 201,
+    "url": "top-of-travel",
+    "website": "top-of-travel",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 202,
+    "url": "touristra-vacances",
+    "website": "touristra-vacances",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 203,
+    "url": "travelski",
+    "website": "travelski",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 204,
+    "url": "ucpa",
+    "website": "ucpa",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 205,
+    "url": "vacanceole",
+    "website": "vacanceole",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 206,
+    "url": "vacances-andre-trigano",
+    "website": "vacances-andre-trigano",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 207,
+    "url": "vacances-bleues",
+    "website": "vacances-bleues",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 208,
+    "url": "villages-clubs-du-soleil",
+    "website": "villages-clubs-du-soleil",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 209,
+    "url": "villages-nature-paris",
+    "website": "villages-nature-paris",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 210,
+    "url": "vin-lenclos-de-ramage-2014",
+    "website": "vin-lenclos-de-ramage-2014",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 211,
+    "url": "voyamar",
+    "website": "voyamar",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 212,
+    "url": "vtf",
+    "website": "vtf",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 213,
+    "url": "vvf",
+    "website": "vvf",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 214,
+    "url": "weber",
+    "website": "weber",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 215,
+    "url": "weekendesk",
+    "website": "weekendesk",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 216,
+    "url": "wiloki",
+    "website": "wiloki",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 217,
+    "url": "wineandco",
+    "website": "wineandco",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 218,
+    "url": "wonderbox",
+    "website": "wonderbox",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 219,
+    "url": "worldia",
+    "website": "worldia",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  },
+  {
+    "index": 220,
+    "url": "zolpan",
+    "website": "zolpan",
+    "thecorner": false,
+    "macif": true,
+    "advango": false,
+    "igraal": false,
+    "widilo": false
+  }
+]
