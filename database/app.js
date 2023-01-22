@@ -76,11 +76,11 @@ for (let i = 1; i < array.length; i++) {
         {
             parse = parseInt(propertiestmp[a])
         }else if (propertiestmp[a]===paramTrue){
-            parse=false
+            parse=true
 
         }
         else if (propertiestmp[a]===paramFalse){
-            parse=true
+            parse=false
 
         }
         properties.push(parse)
