@@ -31,7 +31,6 @@ async function fetchData() {
     })
         .then(response => response.json())
         .then(response => {
-            console.log(response)
 
             return response["merchant"] != null ? response["merchant"].length > 0 : false;
 
@@ -46,7 +45,6 @@ async function fetchData() {
     })
         .then(response => response.json())
         .then(response => {
-            console.log(response)
 
             return response["shops"] != null ? response["shops"].length > 0 : false;
         })
@@ -63,6 +61,7 @@ let data = await fetchData()
         const keyword = data[1].charAt(0).toUpperCase() + data[1].slice(1)
         const json = data[2]
         let shops = [keyword, false, false, false, data[3], data[4]]
+        let match=  false
 
         for (let i = 0; i < json.length; i++) {
 
@@ -91,8 +90,6 @@ let data = await fetchData()
 
             }
         }
-
-        console.log(count)
         return count
     })
     .catch((reason) => console.log("Message:" + reason.message));
@@ -109,11 +106,9 @@ chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
     if(changeInfo.status==="complete")
     {
         let result = await fetchDataBG()
-        console.log("update", tabId, result)
-        if(!isNaN(result)){
-        chrome.action.setBadgeText({text: result.toString(),});
-        chrome.action.setBadgeBackgroundColor({color: '#81b1fc',});
-        }
+        let text = result===0 ? '' : result.toString()
+            chrome.action.setBadgeText({text: text,});
+            chrome.action.setBadgeBackgroundColor({color: '#81b1fc',});
     }
 
 });
@@ -123,11 +118,9 @@ chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
 chrome.tabs.onActivated.addListener(async (tabId, changeInfo, tab) => {
 
     let result = await fetchDataBG()
-    let text = isNaN(result) ? '' : result.toString()
-    if(!isNaN(result)){
-        chrome.action.setBadgeText({text: text,});
-        chrome.action.setBadgeBackgroundColor({color: '#81b1fc',});
-    }
+    let text = result===0 ? '' : result.toString()
+    chrome.action.setBadgeText({text: text,});
+    chrome.action.setBadgeBackgroundColor({color: '#81b1fc',});
 
 });
 
