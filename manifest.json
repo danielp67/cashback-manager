@@ -1,12 +1,19 @@
 {
   "name": "CashBack Manager",
   "description": "Management of cashback",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "alarms","scripting", "notifications", "contextMenus"],
   "background": {
     "service_worker": "background.js"
+
   },
-  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": [
+    "https://www.widilo.fr/*",
+    "https://fr.igraal.com/*",
+    "http://*/",
+    "https://*/"
+  ],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {

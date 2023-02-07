@@ -1,0 +1,5493 @@
+[
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "CHEQUE CADEAU UNIVERSEL SHOPPING PASS VALEUR 10 € VALIDITE 16/12/2022",
+          "detail": "Valable jusqu'au 16/12/2022 - Utilisable auprès de plus de 350 enseignes nationales et plus de 30 000 points d’acceptation",
+          "prices": {
+            "amount": "10.00"
+          }
+        },
+        {
+          "name": "CHEQUE CADEAU UNIVERSEL SHOPPING PASS VALEUR 15 € VALIDITE 21/12/2022",
+          "detail": "Valable jusqu'au 21/12/2022 - Utilisable auprès de plus de 350 enseignes nationales et plus de 30 000 points d’acceptation",
+          "prices": {
+            "amount": "15.00"
+          }
+        },
+        {
+          "name": "CHEQUE CADEAU UNIVERSEL SHOPPING PASS VALEUR 20 € VALIDITE 16/12/2022",
+          "detail": "Valable jusqu'au 16/12/2022 - Utilisable auprès de plus de 350 enseignes nationales et plus de 30 000 points d’acceptation",
+          "prices": {
+            "amount": "20.00"
+          }
+        }
+      ],
+      "id": 19856,
+      "helfrich_price": 10,
+      "public_price": 10,
+      "sales_factor_sort": 46.066617356974994,
+      "name": "Shopping Pass",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 10
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "CHEQUE CADEAU CULTURE SHOPPING PASS VALEUR 10 € VALIDITE 16/12/2022",
+          "detail": "Valable jusqu'au 16/12/2022 - Utilisable auprès de plus de 130 enseignes et lieux culturels et plus de 8 000 points vente à travers la France",
+          "prices": {
+            "amount": "10.00"
+          }
+        },
+        {
+          "name": "CHEQUE CADEAU CULTURE SHOPPING PASS VALEUR 20 € VALIDITE 16/12/2022",
+          "detail": "Valable jusqu'au 16/12/2022 - Utilisable auprès de plus de 130 enseignes et lieux culturels et plus de 8 000 points vente à travers la France",
+          "prices": {
+            "amount": "20.00"
+          }
+        }
+      ],
+      "id": 21794,
+      "helfrich_price": 10,
+      "public_price": 10,
+      "sales_factor_sort": 18.578395831246947,
+      "name": "Shopping Pass Culture",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 10
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Cultura 20€ Valable jusqu'au 01/07/2023",
+          "detail": " Valable jusqu'au 01/07/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cultura 50€ Valable jusqu'au 06/05/2023",
+          "detail": " Valable jusqu'au 06/05/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cultura 100€ Valable jusqu'au 23/06/2023",
+          "detail": " Valable jusqu'au 23/06/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cultura 60€ Valable jusqu'au 03/05/2023",
+          "detail": " Valable jusqu'au 03/05/2023",
+          "prices": {
+            "amount": "57.60"
+          }
+        }
+      ],
+      "id": 826,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 17.763054614240211,
+      "name": "Cultura",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "CARTE CADEAU LEROY MERLIN - VALEUR 100 € - VALABLE JUSQU'AU 31/05/2023",
+          "detail": "Valable jusqu'au 31/05/2023 - Utilisable uniquement dans les magasins",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "CARTE CADEAU LEROY MERLIN - VALEUR 50 € - VALABLE JUSQU'AU 31/05/2023",
+          "detail": "Valable jusqu'au 31/05/2023 - Utilisable uniquement dans les magasins",
+          "prices": {
+            "amount": "48.00"
+          }
+        }
+      ],
+      "id": 845,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 17.06237840420901,
+      "name": "Leroy Merlin",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Maisons du Monde 100€ Valable jusqu'au 06/06/2024",
+          "detail": " Valable jusqu'au 06/06/2024",
+          "prices": {
+            "amount": "93.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Maisons du Monde 50€ Valable jusqu'au 15/04/2024",
+          "detail": " Valable jusqu'au 15/04/2024",
+          "prices": {
+            "amount": "46.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Maisons du Monde 30€ Valable jusqu'au 15/04/2024",
+          "detail": " Valable jusqu'au 15/04/2024",
+          "prices": {
+            "amount": "27.90"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Maisons du Monde 250€ Valable jusqu'au 06/06/2024",
+          "detail": " Valable jusqu'au 06/06/2024",
+          "prices": {
+            "amount": "232.50"
+          }
+        }
+      ],
+      "id": 3367,
+      "helfrich_price": 27.899999999999999,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 7.7082039324993694,
+      "name": "Maison du Monde",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 27.899999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Yves Rocher Valeur 20 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "18.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Yves Rocher Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "46.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Yves Rocher Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "93.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Yves Rocher Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        }
+      ],
+      "id": 3435,
+      "helfrich_price": 9.2999999999999989,
+      "public_price": 10,
+      "sales_factor_sort": 6.4772255750516612,
+      "name": "Yves Rocher",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.2999999999999989
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Sarenza Valeur 30 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "29.10"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sarenza Valeur 50 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sarenza Valeur 80 € Valable jusqu'au 30/09/2022",
+          "detail": " Valable jusqu'au 30/09/2022",
+          "prices": {
+            "amount": "76.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sarenza Valeur 100 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        }
+      ],
+      "id": 19018,
+      "helfrich_price": 29.100000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 4.16227766016838,
+      "name": "Sarenza",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29.100000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Showroomprivé Valeur 50 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Showroomprivé Valeur 20 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Showroomprivé Valeur 30 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Showroomprivé Valeur 100 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        }
+      ],
+      "id": 18935,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "Showroomprivé",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 20 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 30 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 100 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 120 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "115.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 15 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "14.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 40 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "38.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 60 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "57.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 70 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "67.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 80 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 90 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "86.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Rakuten Valeur 110 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "105.60"
+          }
+        }
+      ],
+      "id": 24940,
+      "helfrich_price": 14.4,
+      "public_price": 15,
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "Rakuten",
+      "non_pickup_item_count": 12,
+      "active_item_count": 12,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 14.4
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Cheerz Valeur 50 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "43.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cheerz Valeur 20 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "17.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cheerz Valeur 100 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "87.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cheerz Valeur 10 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "8.70"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cheerz Valeur 30 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "26.10"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cheerz Valeur 75 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "65.25"
+          }
+        }
+      ],
+      "id": 18923,
+      "helfrich_price": 8.6999999999999993,
+      "public_price": 10,
+      "sales_factor_sort": 3.4494897427831779,
+      "name": "Cheerz",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 8.6999999999999993
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Last Minute 100€ Valable jusqu'au 05/04/2023",
+          "detail": " Valable jusqu'au 05/04/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Last Minute 300€ Valable jusqu'au 14/03/2023",
+          "detail": " Valable jusqu'au 14/03/2023",
+          "prices": {
+            "amount": "288.00"
+          }
+        },
+        {
+          "name": "E-carte Last Minute 50€ Valable jusqu'au 05/04/2023",
+          "detail": " Valable jusqu'au 05/04/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-carte Last Minute 200€ Valable jusqu'au 03/06/2023",
+          "detail": " Valable jusqu'au 03/06/2023",
+          "prices": {
+            "amount": "192.00"
+          }
+        }
+      ],
+      "id": 839,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 3.2360679774997898,
+      "name": "lastminute.com",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "regions": [
+        7
+      ],
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Motoblouz Valeur 50 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Motoblouz Valeur 30 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "29.10"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Motoblouz Valeur 100 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        }
+      ],
+      "id": 18918,
+      "helfrich_price": 29.100000000000001,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 3.2360679774997898,
+      "name": "Motoblouz",
+      "non_pickup_item_count": 3,
+      "locations": [
+        {
+          "area": "Carvin",
+          "city": "Carvin",
+          "name": "Magasin Motoblouz Carvin",
+          "zip_code": "62220",
+          "coordinates": {
+            "lat": "50.47563993995482",
+            "lon": "2.9518565193205215"
+          }
+        },
+        {
+          "area": "Seclin",
+          "city": "Seclin",
+          "name": "Magasin Motoblouz Lille-Seclin",
+          "zip_code": "59113",
+          "coordinates": {
+            "lat": "50.557249858967104",
+            "lon": "3.050745945320033"
+          }
+        }
+      ],
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29.100000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Big Moustache 25€ Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "22.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Big Moustache 50€ Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "44.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Big Moustache 55€ Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "48.40"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Big Moustache 10€ Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "8.80"
+          }
+        }
+      ],
+      "id": 29708,
+      "helfrich_price": 8.8000000000000007,
+      "public_price": 10,
+      "sales_factor_sort": 3,
+      "name": "Big Moustache",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 8.8000000000000007
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Ticketac Valeur 30 € Valable jusqu'au 31/05/2023",
+          "detail": " Valable jusqu'au 31/05/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ticketac Valeur 60 € Valable jusqu'au 31/05/2023",
+          "detail": " Valable jusqu'au 31/05/2023",
+          "prices": {
+            "amount": "57.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ticketac Valeur 90 € Valable jusqu'au 31/05/2023",
+          "detail": " Valable jusqu'au 31/05/2023",
+          "prices": {
+            "amount": "86.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ticketac Valeur 120 € Valable jusqu'au 31/05/2023",
+          "detail": " Valable jusqu'au 31/05/2023",
+          "prices": {
+            "amount": "115.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ticketac Valeur 180 € Valable jusqu'au 31/05/2023",
+          "detail": " Valable jusqu'au 31/05/2023",
+          "prices": {
+            "amount": "172.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ticketac Valeur 300 € Valable jusqu'au 31/05/2023",
+          "detail": " Valable jusqu'au 31/05/2023",
+          "prices": {
+            "amount": "288.00"
+          }
+        }
+      ],
+      "id": 42617,
+      "helfrich_price": 28.800000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Ticketac",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Maison 123 Valeur 30 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "29.10"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Maison 123 Valeur 50 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Maison 123 Valeur 100 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Maison 123 Valeur 75 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "72.75"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Maison 123 Valeur 150 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "145.50"
+          }
+        }
+      ],
+      "id": 19182,
+      "helfrich_price": 29.100000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Maison 123",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29.100000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Maty 100€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Maty 30€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "29.10"
+          }
+        }
+      ],
+      "id": 20377,
+      "helfrich_price": 29.100000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Maty",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29.100000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Ulysse Valeur 50 € Valable jusqu'au 30/06/2024",
+          "detail": " Valable jusqu'au 30/06/2024",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ulysse Valeur 100 € Valable jusqu'au 30/06/2024",
+          "detail": " Valable jusqu'au 30/06/2024",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ulysse Valeur 20 € Valable jusqu'au 30/06/2024",
+          "detail": " Valable jusqu'au 30/06/2024",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ulysse Valable jusqu'au 31/08/2024",
+          "detail": " Valable jusqu'au 31/08/2024",
+          "prices": []
+        }
+      ],
+      "id": 35395,
+      "helfrich_price": 9.5999999999999996,
+      "public_price": 10,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Ulysse",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.5999999999999996
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "100.00",
+      "active_items": [
+        {
+          "name": "E-CARTE WORLDIA VALEUR 1 000 €",
+          "detail": "Valable jusqu'au 7 Novembre 2023 et utilisable sur www.ecarte.worldia.com",
+          "prices": {
+            "amount": "940.00"
+          }
+        },
+        {
+          "name": "E-CARTE WORLDIA VALEUR 100 €",
+          "detail": "Valable jusqu'au 7 Novembre 2023 et utilisable sur www.ecarte.worldia.com",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-CARTE WORLDIA VALEUR 300 €",
+          "detail": "Valable jusqu'au 7 Novembre 2023 et utilisable sur www.ecarte.worldia.com",
+          "prices": {
+            "amount": "282.00"
+          }
+        },
+        {
+          "name": "E-CARTE WORLDIA VALEUR 500 €",
+          "detail": "Valable jusqu'au 7 Novembre 2023 et utilisable sur www.ecarte.worldia.com",
+          "prices": {
+            "amount": "470.00"
+          }
+        }
+      ],
+      "id": 41723,
+      "helfrich_price": 94,
+      "public_price": 100,
+      "name": "Worldia",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 94
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 50 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 100 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 15 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "14.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 30 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 75 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "72.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 150 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "144.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Raffineurs Valeur 300 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "288.00"
+          }
+        }
+      ],
+      "id": 18920,
+      "helfrich_price": 14.4,
+      "public_price": 15,
+      "name": "Les Raffineurs",
+      "non_pickup_item_count": 7,
+      "active_item_count": 7,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 14.4
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau WeDressFair 100€ Valable jusqu'au 02/04/2023",
+          "detail": " Valable jusqu'au 02/04/2023",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau WeDressFair 200€ Valable jusqu'au 02/04/2023",
+          "detail": " Valable jusqu'au 02/04/2023",
+          "prices": {
+            "amount": "188.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau WeDressFair 50€ Valable jusqu'au 14/01/2024",
+          "detail": " Valable jusqu'au 14/01/2024",
+          "prices": {
+            "amount": "47.00"
+          }
+        }
+      ],
+      "id": 20854,
+      "helfrich_price": 47,
+      "public_price": 50,
+      "name": "WeDressFair",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 47
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Sportihome Valeur 30 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "27.90"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sportihome Valeur 70 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "65.10"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sportihome Valeur 100 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "93.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sportihome Valeur 200 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "186.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sportihome Valeur 300 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "279.00"
+          }
+        }
+      ],
+      "id": 42616,
+      "helfrich_price": 27.899999999999999,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 1,
+      "name": "Sportihome",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 27.899999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "69.00",
+      "active_items": [
+        {
+          "name": "E-Bon d'achat E-Carte Culturelle 4 Places CULTURESECRETS",
+          "detail": "Valable pour 1 E-Carte Culturelle 4 Places valable 1 an à partir de son activation sur https://www.culturesecrets.com/ jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "61.00"
+          }
+        },
+        {
+          "name": "E-Bon d'achat E-Carte Culturelle 10 Places CULTURESECRETS",
+          "detail": "Valable pour 1 E-Carte Culturelle 10 Places valable 1 an à partir de son activation sur https://www.culturesecrets.com/ jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "140.00"
+          }
+        },
+        {
+          "name": "E-Bon d'achat E-Carte Culturelle 20 Places CULTURESECRETS",
+          "detail": "Valable pour 1 E-Carte Culturelle 20 Places valable 1 an à partir de son activation sur https://www.culturesecrets.com/ jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "255.00"
+          }
+        }
+      ],
+      "id": 35865,
+      "kind": "Loisirs & Tourisme",
+      "helfrich_price": 61,
+      "public_price": 69,
+      "sales_factor_sort": 1,
+      "name": "CultureSecrets",
+      "non_pickup_item_count": 3,
+      "supplier4_catalogue": "Parc & Loisirs",
+      "active_item_count": 3,
+      "aggregate_type": "park",
+      "price_with_subvention": 61
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Divine box Valeur 20 € Valable jusqu'au 31/01/2024",
+          "detail": " Valable jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "19.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Divine box Valeur 30 € Valable jusqu'au 31/01/2024",
+          "detail": " Valable jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "28.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Divine box Valeur 50 € Valable jusqu'au 31/01/2024",
+          "detail": " Valable jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Divine box Valeur 100 € Valable jusqu'au 31/01/2024",
+          "detail": " Valable jusqu'au 31/01/2024",
+          "prices": {
+            "amount": "95.00"
+          }
+        }
+      ],
+      "id": 32366,
+      "helfrich_price": 19,
+      "public_price": 20,
+      "sales_factor_sort": 1,
+      "name": "Divine box",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "50.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "id": 1780990,
+      "helfrich_price": 45.5,
+      "public_price": 50,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 10.486832980505138,
+      "name": "E-CARTE CADEAU AUBERT 50€ Valable jusqu'au 28/12/2023",
+      "price_with_subvention": 45.5
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "30.00",
+      "id": 2076445,
+      "helfrich_price": 27,
+      "public_price": 30,
+      "sales_factor_sort": 7.7823299831252681,
+      "name": "E-carte Cadeau Gémo 30€ Valable jusqu'au 30/11/2023",
+      "price_with_subvention": 27
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "20.00",
+      "id": 1372981,
+      "helfrich_price": 18.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 3,
+      "name": "CHEQUE CADEAU C&A - VALEUR 20 € - VALABLE JUSQU'AU 22/12/2022",
+      "price_with_subvention": 18.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "50.00",
+      "id": 2472525,
+      "helfrich_price": 47,
+      "public_price": 50,
+      "sales_factor_sort": 1,
+      "name": "E-Carte Cadeau Choosemi Valeur 50 € Valable jusqu'au 31/03/2023",
+      "price_with_subvention": 47
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Fnac Darty Valeur 50 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Fnac Darty Valeur 100 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Fnac Darty Valeur 250 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "245.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Fnac Darty Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": []
+        }
+      ],
+      "id": 5845,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "sales_factor_sort": 22.517434791350013,
+      "name": "Fnac Darty",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Decathlon Valable jusqu'au 30/09/2024",
+          "detail": " Valable jusqu'au 30/09/2024",
+          "prices": []
+        },
+        {
+          "name": "E-carte Cadeau Decathlon Valeur 20 € Valable jusqu'au 31/07/2024",
+          "detail": " Valable jusqu'au 31/07/2024",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Decathlon Valeur 50 € Valable jusqu'au 31/07/2024",
+          "detail": " Valable jusqu'au 31/07/2024",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Decathlon Valeur 80 € Valable jusqu'au 31/07/2024",
+          "detail": " Valable jusqu'au 31/07/2024",
+          "prices": {
+            "amount": "78.40"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Decathlon Valeur 100 € Valable jusqu'au 31/07/2024",
+          "detail": " Valable jusqu'au 31/07/2024",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Decathlon Valeur 150 € Valable jusqu'au 31/07/2024",
+          "detail": " Valable jusqu'au 31/07/2024",
+          "prices": {
+            "amount": "147.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Decathlon Valeur 200 € Valable jusqu'au 31/07/2024",
+          "detail": " Valable jusqu'au 31/07/2024",
+          "prices": {
+            "amount": "196.00"
+          }
+        }
+      ],
+      "id": 5496,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 20.28730152198591,
+      "name": "Decathlon",
+      "non_pickup_item_count": 7,
+      "active_item_count": 7,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "CARTE CADEAU AUCHAN - VALEUR 50 € - VALABLE JUSQU'AU 31/05/2023",
+          "detail": "Valable jusqu'au 31/05/2023 - Utilisable dans tous les rayons (hors carburant et prestations SAV)",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "CARTE CADEAU AUCHAN - VALEUR 100 € - VALABLE JUSQU'AU 30/04/2023",
+          "detail": "Valable jusqu'au 30/04/2023 - Utilisable dans tous les rayons (hors carburant et prestations SAV)",
+          "prices": {
+            "amount": "96.00"
+          }
+        }
+      ],
+      "id": 1024,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 15.352700094407323,
+      "name": "Auchan",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Carrefour 250€ Valable jusqu'au 22/06/2023",
+          "detail": " Valable jusqu'au 22/06/2023",
+          "prices": {
+            "amount": "240.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour 100€ Valable jusqu'au 22/06/2023",
+          "detail": " Valable jusqu'au 22/06/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour 50€ Valable jusqu'au 12/06/2023",
+          "detail": " Valable jusqu'au 12/06/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour 150€ Valable jusqu'au 22/06/2023",
+          "detail": " Valable jusqu'au 22/06/2023",
+          "prices": {
+            "amount": "144.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour 80€ Valable jusqu'au 29/05/2023",
+          "detail": " Valable jusqu'au 29/05/2023",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour 20€ Valable jusqu'au 12/06/2023",
+          "detail": " Valable jusqu'au 12/06/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        }
+      ],
+      "id": 846,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 18.406895185529212,
+      "name": "Carrefour",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Sephora - 50€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "46.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Sephora - 100€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "92.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Sephora - 20€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "18.40"
+          }
+        }
+      ],
+      "id": 500,
+      "helfrich_price": 18.399999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 10.219544457292887,
+      "name": "Sephora",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18.399999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "CARTE CADEAU NOCIBE - VALEUR 20 € - VALABLE JUSQU'AU 31/12/2022",
+          "detail": "Valable jusqu'au 31/12/2022 - Utilisable uniquement dans les magasins et sur nocibe.fr",
+          "prices": {
+            "amount": "18.20"
+          }
+        },
+        {
+          "name": "CARTE CADEAU NOCIBE - VALEUR 50 € - VALABLE JUSQU'AU 31/12/2022",
+          "detail": "Valable jusqu'au 31/12/2022 - Utilisable uniquement dans les magasins et sur nocibe.fr",
+          "prices": {
+            "amount": "45.50"
+          }
+        }
+      ],
+      "id": 5491,
+      "helfrich_price": 18.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 10.055385138137417,
+      "name": "Nocibe",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau IKEA Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau IKEA Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau IKEA Valeur 250 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "245.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau IKEA Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        }
+      ],
+      "id": 3438,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 9.8317608663278477,
+      "name": "Ikéa",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Zalando Valeur 50 € Valable jusqu'au 30/06/2032",
+          "detail": " Valable jusqu'au 30/06/2032",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Zalando Valeur 20 € Valable jusqu'au 30/06/2032",
+          "detail": " Valable jusqu'au 30/06/2032",
+          "prices": {
+            "amount": "18.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Zalando Valeur 100 € Valable jusqu'au 30/06/2032",
+          "detail": " Valable jusqu'au 30/06/2032",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Zalando Valable jusqu'au 31/08/2032",
+          "detail": " Valable jusqu'au 31/08/2032",
+          "prices": []
+        }
+      ],
+      "id": 429,
+      "helfrich_price": 9.3999999999999986,
+      "public_price": 10,
+      "sales_factor_sort": 9.3666002653407556,
+      "name": "Zalando",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.3999999999999986
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau C-Discount 100€ Valable jusqu'au 08/06/2023",
+          "detail": " Valable jusqu'au 08/06/2023",
+          "prices": {
+            "amount": "99.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau C-Discount 25€ Valable jusqu'au 01/08/2022",
+          "detail": " Valable jusqu'au 01/08/2022",
+          "prices": {
+            "amount": "24.75"
+          }
+        },
+        {
+          "name": "E-carte Cadeau C-Discount 50€ Valable jusqu'au 18/06/2023",
+          "detail": " Valable jusqu'au 18/06/2023",
+          "prices": {
+            "amount": "49.50"
+          }
+        },
+        {
+          "name": "Offre Promo Spéciale E-carte C-Discount valeur 20 € avec remise de 8 %",
+          "detail": "",
+          "prices": {
+            "amount": "18.40"
+          }
+        }
+      ],
+      "id": 20420,
+      "helfrich_price": 18.399999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 8.416198487095663,
+      "name": "Cdiscount",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18.399999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Orchestra Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        },
+        {
+          "name": "E-Carte Cadeau Orchestra Valeur 20 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Orchestra Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Orchestra Valeur 80 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "78.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Orchestra Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Orchestra Valeur 250 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "245.00"
+          }
+        }
+      ],
+      "id": 32361,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 6.7445626465380286,
+      "name": "Orchestra",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Obaïbi - Okaïdi - Idkids - Oxybul 50€ Valable jusqu'au 15/07/2023",
+          "detail": " Valable jusqu'au 15/07/2023",
+          "prices": {
+            "amount": "45.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Obaïbi - Okaïdi - Idkids - Oxybul 20€ Valable jusqu'au 06/05/2023",
+          "detail": " Valable jusqu'au 06/05/2023",
+          "prices": {
+            "amount": "18.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Obaïbi - Okaïdi - Idkids - Oxybul 200€ Valable jusqu'au 13/11/2022",
+          "detail": " Valable jusqu'au 13/11/2022",
+          "prices": {
+            "amount": "180.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Obaïbi - Okaïdi - Idkids - Oxybul 100€ Valable jusqu'au 02/01/2023",
+          "detail": " Valable jusqu'au 02/01/2023",
+          "prices": {
+            "amount": "90.00"
+          }
+        }
+      ],
+      "id": 19005,
+      "helfrich_price": 18,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 6.6568542494923806,
+      "name": "Oxybul Okaïdi",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau H&M 20€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-carte Cadeau H&M 50€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau H&M 100€ Valable jusqu'au 31/07/2027",
+          "detail": " Valable jusqu'au 31/07/2027",
+          "prices": {
+            "amount": "96.00"
+          }
+        }
+      ],
+      "id": 22185,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 6.5677643628300215,
+      "name": "H&M",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Foot Locker 30€ Valable jusqu'au 31/12/2050",
+          "detail": " Valable jusqu'au 31/12/2050",
+          "prices": {
+            "amount": "27.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Foot Locker 150€ Valable jusqu'au 31/12/2050",
+          "detail": " Valable jusqu'au 31/12/2050",
+          "prices": {
+            "amount": "135.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Foot Locker 50€ Valable jusqu'au 31/12/2050",
+          "detail": " Valable jusqu'au 31/12/2050",
+          "prices": {
+            "amount": "45.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Foot Locker 75€ Valable jusqu'au 31/12/2050",
+          "detail": " Valable jusqu'au 31/12/2050",
+          "prices": {
+            "amount": "67.50"
+          }
+        }
+      ],
+      "id": 835,
+      "helfrich_price": 27,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 5.6904157598234297,
+      "name": "Foot Locker",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 27
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Adidas 50€ Valable jusqu'au 04/05/2025",
+          "detail": " Valable jusqu'au 04/05/2025",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Adidas 150€ Valable jusqu'au 21/03/2025",
+          "detail": " Valable jusqu'au 21/03/2025",
+          "prices": {
+            "amount": "142.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Adidas 30€ Valable jusqu'au 04/05/2025",
+          "detail": " Valable jusqu'au 04/05/2025",
+          "prices": {
+            "amount": "28.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Adidas 75€ Valable jusqu'au 04/05/2025",
+          "detail": " Valable jusqu'au 04/05/2025",
+          "prices": {
+            "amount": "71.25"
+          }
+        }
+      ],
+      "id": 20021,
+      "helfrich_price": 28.5,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 4.6055512754639896,
+      "name": "Adidas",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Decitre 70€ Valable jusqu'au 20/12/2022",
+          "detail": " Valable jusqu'au 20/12/2022",
+          "prices": {
+            "amount": "67.20"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Decitre 50€ Valable jusqu'au 03/01/2023",
+          "detail": " Valable jusqu'au 03/01/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        }
+      ],
+      "id": 150,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 4.4641016151377544,
+      "name": "Decitre",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "60.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Expérience SMARTBOX 60 € jusqu'au 17/12/2022",
+          "detail": "A utiliser sur https://www.smartbox.com/fr jusqu'au 17/12/2022",
+          "prices": {
+            "amount": "45.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Expérience SMARTBOX 80 € jusqu'au 17/12/2022",
+          "detail": "A utiliser sur https://www.smartbox.com/fr jusqu'au 17/12/2022",
+          "prices": {
+            "amount": "60.00"
+          }
+        }
+      ],
+      "id": 19448,
+      "helfrich_price": 45,
+      "public_price": 60,
+      "sales_factor_sort": 4.3166247903553998,
+      "name": "Smartbox",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 45
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Weekendesk 100€ Valable jusqu'au 16/06/2023",
+          "detail": " Valable jusqu'au 16/06/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Weekendesk 50€ Valable jusqu'au 05/05/2023",
+          "detail": " Valable jusqu'au 05/05/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Weekendesk 10€ Valable jusqu'au 07/04/2023",
+          "detail": " Valable jusqu'au 07/04/2023",
+          "prices": {
+            "amount": "9.50"
+          }
+        }
+      ],
+      "id": 19201,
+      "helfrich_price": 9.5,
+      "public_price": 10,
+      "sales_factor_sort": 4.16227766016838,
+      "name": "Weekendesk",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Nature & Découvertes 50€ Valable jusqu'au 07/02/2023",
+          "detail": " Valable jusqu'au 07/02/2023",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Nature & Découvertes 30€ Valable jusqu'au 02/03/2023",
+          "detail": " Valable jusqu'au 02/03/2023",
+          "prices": {
+            "amount": "28.20"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Nature & Découvertes 150€ Valable jusqu'au 22/07/2022",
+          "detail": " Valable jusqu'au 22/07/2022",
+          "prices": {
+            "amount": "141.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Nature & Découvertes 100€ Valable jusqu'au 07/02/2023",
+          "detail": " Valable jusqu'au 07/02/2023",
+          "prices": {
+            "amount": "94.00"
+          }
+        }
+      ],
+      "id": 4395,
+      "helfrich_price": 28.199999999999999,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 3.8284271247461903,
+      "name": "Nature et Découvertes",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Faguo 100€ Valable jusqu'au 10/04/2024",
+          "detail": " Valable jusqu'au 10/04/2024",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Faguo 50€ Valable jusqu'au 02/05/2024",
+          "detail": " Valable jusqu'au 02/05/2024",
+          "prices": {
+            "amount": "47.00"
+          }
+        }
+      ],
+      "id": 21131,
+      "helfrich_price": 47,
+      "public_price": 50,
+      "sales_factor_sort": 3.4494897427831779,
+      "name": "Faguo",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 47
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Kiko Valeur 30 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Kiko Valeur 50 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Kiko Valeur 20 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        }
+      ],
+      "id": 18915,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 3,
+      "name": "Kiko",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Spartoo Valeur 50 € Valable jusqu'au 31/05/2024",
+          "detail": " Valable jusqu'au 31/05/2024",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Spartoo Valeur 70 € Valable jusqu'au 31/05/2024",
+          "detail": " Valable jusqu'au 31/05/2024",
+          "prices": {
+            "amount": "65.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Spartoo Valeur 100 € Valable jusqu'au 31/05/2024",
+          "detail": " Valable jusqu'au 31/05/2024",
+          "prices": {
+            "amount": "94.00"
+          }
+        }
+      ],
+      "id": 23471,
+      "helfrich_price": 47,
+      "public_price": 50,
+      "sales_factor_sort": 3,
+      "name": "Spartoo",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 47
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 50 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 20 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 100 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 15 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "14.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 30 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 75 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "72.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 125 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "120.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 200 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "192.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Les Petits Raffineurs Valeur 300 € Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "288.00"
+          }
+        }
+      ],
+      "id": 18960,
+      "helfrich_price": 14.4,
+      "public_price": 15,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 2.7320508075688772,
+      "name": "Les Petits Raffineurs",
+      "non_pickup_item_count": 9,
+      "active_item_count": 9,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 14.4
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Le Petit Ballon Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        },
+        {
+          "name": "E-Carte Cadeau Le Petit Ballon Valeur 20 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Le Petit Ballon Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Le Petit Ballon Valeur 80 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Le Petit Ballon Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Le Petit Ballon Valeur 200 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "192.00"
+          }
+        }
+      ],
+      "id": 32335,
+      "helfrich_price": 9.5999999999999996,
+      "public_price": 10,
+      "name": "Le Petit Ballon",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.5999999999999996
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Natalys Valeur 120 € Valable jusqu'au 30/09/2022",
+          "detail": " Valable jusqu'au 30/09/2022",
+          "prices": {
+            "amount": "115.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Natalys Valeur 30 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "29.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Natalys Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Natalys Valeur 100 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Natalys Valeur 200 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "196.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Natalys Valeur 300 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "294.00"
+          }
+        }
+      ],
+      "id": 18929,
+      "helfrich_price": 29.399999999999999,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 1,
+      "name": "Natalys",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29.399999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 0,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Dream'Act Valable jusqu'au 31/07/2022",
+          "detail": " Valable jusqu'au 31/07/2022",
+          "prices": []
+        },
+        {
+          "name": "E-Carte Cadeau Dream'Act Valeur 50 € Valable jusqu'au 31/07/2022",
+          "detail": " Valable jusqu'au 31/07/2022",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Dream'Act Valeur 20 € Valable jusqu'au 31/07/2022",
+          "detail": " Valable jusqu'au 31/07/2022",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Dream'Act Valeur 100 € Valable jusqu'au 31/05/2022",
+          "detail": " Valable jusqu'au 31/05/2022",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Dream'Act Valeur 25 € Valable jusqu'au 31/05/2022",
+          "detail": " Valable jusqu'au 31/05/2022",
+          "prices": {
+            "amount": "24.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Dream'Act Valeur 80 € Valable jusqu'au 31/05/2022",
+          "detail": " Valable jusqu'au 31/05/2022",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Dream'Act Valeur 150 € Valable jusqu'au 31/05/2022",
+          "detail": " Valable jusqu'au 31/05/2022",
+          "prices": {
+            "amount": "144.00"
+          }
+        }
+      ],
+      "id": 18969,
+      "helfrich_price": 0,
+      "public_price": 0,
+      "sales_factor_sort": 1,
+      "name": "Dream'Act",
+      "non_pickup_item_count": 7,
+      "active_item_count": 7,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 0
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Selency 50€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Selency 100€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        }
+      ],
+      "id": 29301,
+      "helfrich_price": 48.5,
+      "public_price": 50,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 1,
+      "name": "Selency",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Bib et Bob Valeur 30 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "28.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Bib et Bob Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "47.00"
+          }
+        }
+      ],
+      "id": 32365,
+      "helfrich_price": 28.199999999999999,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 1,
+      "name": "Bib et Bob",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 30,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Clarins Valable jusqu'au 31/08/2023",
+          "detail": " Valable jusqu'au 31/08/2023",
+          "prices": []
+        },
+        {
+          "name": "E-Carte Cadeau Clarins Valeur 30 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "28.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Clarins Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Clarins Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Clarins Valeur 140 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "131.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Clarins Valeur 200 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "188.00"
+          }
+        }
+      ],
+      "id": 42556,
+      "helfrich_price": 28.199999999999999,
+      "public_price": 30,
+      "sales_factor_sort": 1,
+      "name": "Clarins",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Microsoft® Xbox Valeur 10 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "9.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Microsoft® Xbox Valeur 25 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "24.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Microsoft® Xbox Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        }
+      ],
+      "id": 20786,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "sales_factor_sort": 8.937253933193773,
+      "name": "Microsoft® Xbox",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau La Redoute Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        },
+        {
+          "name": "E-Carte Cadeau La Redoute Valeur 20 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "19.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau La Redoute Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau La Redoute Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        }
+      ],
+      "id": 3425,
+      "helfrich_price": 9.5,
+      "public_price": 10,
+      "sales_factor_sort": 9.1853527718724504,
+      "name": "La Redoute",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valeur 20 € Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": {
+            "amount": "19.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valeur 50 € Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valeur 100 € Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valeur 150 € Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": {
+            "amount": "145.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valeur 200 € Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": {
+            "amount": "194.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valeur 250 € Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": {
+            "amount": "242.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Galeries Lafayette Valable jusqu'au 30/06/2022",
+          "detail": " Valable jusqu'au 30/06/2022",
+          "prices": []
+        },
+        {
+          "name": "E-carte Cadeau Galeries Lafayette 100€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Galeries Lafayette 50€ Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        }
+      ],
+      "id": 2,
+      "helfrich_price": 9.6999999999999993,
+      "public_price": 10,
+      "sales_factor_sort": 8.0710678118654755,
+      "name": "Galeries Lafayette",
+      "non_pickup_item_count": 9,
+      "active_item_count": 9,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.6999999999999993
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Castorama 50€ Valable jusqu'au 17/06/2023",
+          "detail": " Valable jusqu'au 17/06/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Castorama 100€ Valable jusqu'au 03/06/2023",
+          "detail": " Valable jusqu'au 03/06/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Castorama 150€ Valable jusqu'au 20/05/2023",
+          "detail": " Valable jusqu'au 20/05/2023",
+          "prices": {
+            "amount": "144.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Castorama 250€ Valable jusqu'au 22/06/2023",
+          "detail": " Valable jusqu'au 22/06/2023",
+          "prices": {
+            "amount": "240.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Castorama 80€ Valable jusqu'au 05/05/2023",
+          "detail": " Valable jusqu'au 05/05/2023",
+          "prices": {
+            "amount": "76.80"
+          }
+        }
+      ],
+      "id": 4035,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 7.2449979983983983,
+      "name": "Castorama",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 15,
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Monoprix - montant variable Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        },
+        {
+          "name": "E-carte Cadeau Monoprix - montant variable Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Monoprix - montant variable Valeur 80 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "78.40"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Monoprix - montant variable Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Monoprix - montant variable Valeur 150 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "147.00"
+          }
+        }
+      ],
+      "id": 40053,
+      "helfrich_price": 14.699999999999999,
+      "public_price": 15,
+      "sales_factor_sort": 5.7958315233127191,
+      "name": "Monoprix",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 14.699999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Casino 150€ Valable jusqu'au 01/03/2023",
+          "detail": " Valable jusqu'au 01/03/2023",
+          "prices": {
+            "amount": "144.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Casino 100€ Valable jusqu'au 21/04/2023",
+          "detail": " Valable jusqu'au 21/04/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Casino 80€ Valable jusqu'au 04/12/2022",
+          "detail": " Valable jusqu'au 04/12/2022",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Casino 50€ Valable jusqu'au 21/04/2023",
+          "detail": " Valable jusqu'au 21/04/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        }
+      ],
+      "id": 5855,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 5.5825756949558398,
+      "name": "Geant Casino",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "CARTE CADEAU KIABI - VALEUR 20 € - VALABLE JUSQU'AU 31/12/2022",
+          "detail": "Valable jusqu'au 31/12/2022 - Utilisable uniquement dans les magasins",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "CARTE CADEAU KIABI - VALEUR 50 € - VALABLE JUSQU'AU 31/01/2023",
+          "detail": "Valable jusqu'au 31/01/2023 - Utilisable uniquement dans les magasins",
+          "prices": {
+            "amount": "48.00"
+          }
+        }
+      ],
+      "id": 23416,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 8.1414284285428504,
+      "name": "Kiabi",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Nintendo Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "49.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Nintendo Valeur 15 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "14.85"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Nintendo Valeur 25 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "24.75"
+          }
+        }
+      ],
+      "id": 18921,
+      "helfrich_price": 14.85,
+      "public_price": 15,
+      "sales_factor_sort": 5.8989794855663558,
+      "name": "Nintendo",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 14.85
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "25.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Truffaut 50€ Valable jusqu'au 07/06/2023",
+          "detail": " Valable jusqu'au 07/06/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Truffaut 25€ Valable jusqu'au 04/04/2023",
+          "detail": " Valable jusqu'au 04/04/2023",
+          "prices": {
+            "amount": "23.75"
+          }
+        }
+      ],
+      "id": 4034,
+      "helfrich_price": 23.75,
+      "public_price": 25,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 4,
+      "name": "Truffaut",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 23.75
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Sony Playstation®Network Valeur 10 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "9.90"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sony Playstation®Network Valeur 20 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "19.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sony Playstation®Network Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "49.50"
+          }
+        }
+      ],
+      "id": 20790,
+      "helfrich_price": 9.9000000000000004,
+      "public_price": 10,
+      "sales_factor_sort": 7.4031242374328485,
+      "name": "Sony Playstation®Network",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.9000000000000004
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Sergent Major Valeur 20 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sergent Major Valeur 30 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "29.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sergent Major Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sergent Major Valeur 100 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sergent Major Valeur 150 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "147.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sergent Major Valeur 200 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "196.00"
+          }
+        }
+      ],
+      "id": 18930,
+      "helfrich_price": 19.600000000000001,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 3.4494897427831779,
+      "name": "Sergent Major",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Beauty Success 20€ Valable jusqu'au 13/01/2023",
+          "detail": " Valable jusqu'au 13/01/2023",
+          "prices": {
+            "amount": "18.60"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Beauty Success 50€ Valable jusqu'au 13/01/2023",
+          "detail": " Valable jusqu'au 13/01/2023",
+          "prices": {
+            "amount": "46.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Beauty Success 100€ Valable jusqu'au 13/01/2023",
+          "detail": " Valable jusqu'au 13/01/2023",
+          "prices": {
+            "amount": "93.00"
+          }
+        }
+      ],
+      "id": 19191,
+      "helfrich_price": 18.600000000000001,
+      "public_price": 20,
+      "sales_factor_sort": 3.4494897427831779,
+      "name": "Beauty Success",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "25.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Carrefour Culture 90€ Valable jusqu'au 15/12/2022",
+          "detail": " Valable jusqu'au 15/12/2022",
+          "prices": {
+            "amount": "90.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour Culture 130€ Valable jusqu'au 15/12/2022",
+          "detail": " Valable jusqu'au 15/12/2022",
+          "prices": {
+            "amount": "130.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour Culture 25€ Valable jusqu'au 26/06/2023",
+          "detail": " Valable jusqu'au 26/06/2023",
+          "prices": {
+            "amount": "25.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Carrefour Culture 60€ Valable jusqu'au 15/12/2022",
+          "detail": " Valable jusqu'au 15/12/2022",
+          "prices": {
+            "amount": "60.00"
+          }
+        }
+      ],
+      "id": 32334,
+      "helfrich_price": 25,
+      "public_price": 25,
+      "sales_factor_sort": 3.2360679774997898,
+      "name": "Carrefour Culture",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 25
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Vertbaudet 30€ Valable jusqu'au 14/06/2023",
+          "detail": " Valable jusqu'au 14/06/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Vertbaudet 80€ Valable jusqu'au 20/04/2023",
+          "detail": " Valable jusqu'au 20/04/2023",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Vertbaudet 100€ Valable jusqu'au 14/06/2023",
+          "detail": " Valable jusqu'au 14/06/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Vertbaudet 50€ Valable jusqu'au 29/06/2023",
+          "detail": " Valable jusqu'au 29/06/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        }
+      ],
+      "id": 18933,
+      "helfrich_price": 28.800000000000001,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 5.2426406871192848,
+      "name": "Vertbaudet",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Marionnaud 100€ Valable jusqu'au 04/05/2023",
+          "detail": " Valable jusqu'au 04/05/2023",
+          "prices": {
+            "amount": "90.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Marionnaud 50€ Valable jusqu'au 18/05/2023",
+          "detail": " Valable jusqu'au 18/05/2023",
+          "prices": {
+            "amount": "45.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Marionnaud 20€ Valable jusqu'au 13/06/2023",
+          "detail": " Valable jusqu'au 13/06/2023",
+          "prices": {
+            "amount": "18.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Marionnaud 80€ Valable jusqu'au 28/03/2023",
+          "detail": " Valable jusqu'au 28/03/2023",
+          "prices": {
+            "amount": "72.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Marionnaud 150€ Valable jusqu'au 28/03/2023",
+          "detail": " Valable jusqu'au 28/03/2023",
+          "prices": {
+            "amount": "135.00"
+          }
+        }
+      ],
+      "id": 913,
+      "helfrich_price": 18,
+      "public_price": 20,
+      "sales_factor_sort": 7.164414002968976,
+      "name": "Marionnaud",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Balinea Valeur 50 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Balinea Valeur 20 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Balinea Valeur 100 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Balinea Valeur 30 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "29.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Balinea Valeur 75 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "73.50"
+          }
+        }
+      ],
+      "id": 20409,
+      "helfrich_price": 19.600000000000001,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Uala (ex Balinea)",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Citadium 100€ Valable jusqu'au 11/07/2023",
+          "detail": " Valable jusqu'au 11/07/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Citadium 50€ Valable jusqu'au 11/07/2023",
+          "detail": " Valable jusqu'au 11/07/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        }
+      ],
+      "id": 26424,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Citadium",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Respire Valeur 30 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "28.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Respire Valeur 50 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Respire Valeur 70 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "65.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Respire Valeur 100 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Respire Valeur 200 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "188.00"
+          }
+        }
+      ],
+      "id": 42593,
+      "helfrich_price": 28.199999999999999,
+      "public_price": 30,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Respire",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Du Pareil au Même Valeur 100 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Du Pareil au Même Valeur 50 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Du Pareil au Même Valeur 20 € Valable jusqu'au 28/02/2023",
+          "detail": " Valable jusqu'au 28/02/2023",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Du Pareil au Même Valeur 20 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Du Pareil au Même Valeur 50 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Du Pareil au Même Valeur 100 € Valable jusqu'au 30/06/2023",
+          "detail": " Valable jusqu'au 30/06/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        }
+      ],
+      "id": 18911,
+      "helfrich_price": 19.600000000000001,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "name": "Du Pareil au Même",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Blissim Valeur 50 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Blissim Valeur 20 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "19.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Blissim Valeur 100 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Blissim Valeur 30 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "29.10"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Blissim Valeur 80 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "77.60"
+          }
+        }
+      ],
+      "id": 18917,
+      "helfrich_price": 19.399999999999999,
+      "public_price": 20,
+      "name": "Blissim",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.399999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Reebok 50€ Valable jusqu'au 01/12/2023",
+          "detail": " Valable jusqu'au 01/12/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Reebok 100€ Valable jusqu'au 01/02/2025",
+          "detail": " Valable jusqu'au 01/02/2025",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Reebok 30€ Valable jusqu'au 30/11/2024",
+          "detail": " Valable jusqu'au 30/11/2024",
+          "prices": {
+            "amount": "28.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Reebok 70€ Valable jusqu'au 02/03/2024",
+          "detail": " Valable jusqu'au 02/03/2024",
+          "prices": {
+            "amount": "66.50"
+          }
+        }
+      ],
+      "id": 19793,
+      "helfrich_price": 28.5,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "name": "Reebok",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Bon d'achat Abo 12 mois Explore Kits éducatifs créatifs PANDACRAFT",
+          "detail": "Valable pour un abonnement Explore de 12 mois pour les enfants de 3 à 7 ans - Code à utiliser sur le site https://www.pandacraft.fr/cadeau/ jusqu'au 29/11/2022",
+          "prices": {
+            "amount": "100.00"
+          }
+        },
+        {
+          "name": "E-Bon d'achat Abo 12 mois Makers Kits éducatifs créatifs PANDACRAFT",
+          "detail": "Valable pour un abonnement Makers de 12 mois pour les enfants de 8 à 12 ans - Code à utiliser sur le site https://www.pandacraft.fr/cadeau/ jusqu'au 29/11/2022",
+          "prices": {
+            "amount": "100.00"
+          }
+        },
+        {
+          "name": "E-Bon d'achat Abo 3 mois Explore Kits éducatifs et créatifs PANDACRAFT",
+          "detail": "Valable pour un abonnement Explore de 3 mois pour les enfants de 3 à 7 ans - Code à utiliser sur le site https://www.pandacraft.fr/cadeau/ jusqu'au 29/11/2022",
+          "prices": {
+            "amount": "27.60"
+          }
+        },
+        {
+          "name": "E-Bon d'achat Abo 3 mois Makers Kits éducatifs et créatifs PANDACRAFT",
+          "detail": "Valable pour un abonnement Makers de 3 mois pour les enfants de 8 à 12 ans - Code à utiliser sur le site https://www.pandacraft.fr/cadeau/ jusqu'au 29/11/2022",
+          "prices": {
+            "amount": "27.60"
+          }
+        },
+        {
+          "name": "E-Bon d'achat Abo 6 mois Explore Kits éducatifs et créatifs PANDACRAFT",
+          "detail": "Valable pour un abonnement de 6 mois pour les enfants de 3 à 7 ans - Code à utiliser sur le site https://www.pandacraft.fr/cadeau/ jusqu'au 29/11/2022",
+          "prices": {
+            "amount": "55.20"
+          }
+        },
+        {
+          "name": "E-Bon d'achat Abo 6 mois Makers Kits éducatifs et créatifs PANDACRAFT",
+          "detail": "Valable pour un abonnement Makers de 6 mois pour les enfants de 8 à 12 ans - Code à utiliser sur le site https://www.pandacraft.fr/cadeau/ jusqu'au 29/11/2022",
+          "prices": {
+            "amount": "55.20"
+          }
+        }
+      ],
+      "id": 29300,
+      "kind": "Loisirs & Tourisme",
+      "helfrich_price": 27.600000000000001,
+      "public_price": 30,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "name": "Pandacraft",
+      "non_pickup_item_count": 6,
+      "supplier4_catalogue": "Parc & Loisirs",
+      "active_item_count": 6,
+      "aggregate_type": "park",
+      "price_with_subvention": 27.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-carte Cadeau BHV -montant libre Valeur 20 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-carte Cadeau BHV -montant libre Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau BHV -montant libre Valeur 80 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "78.40"
+          }
+        },
+        {
+          "name": "E-carte Cadeau BHV -montant libre Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau BHV -montant libre Valeur 200 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "196.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau BHV -montant libre Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        }
+      ],
+      "id": 20448,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "sales_factor_sort": 4.872983346207417,
+      "name": "BHV",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 0,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Balibaris Valeur 50 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Balibaris Valeur 100 € Valable jusqu'au 31/10/2022",
+          "detail": " Valable jusqu'au 31/10/2022",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Balibaris Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": []
+        }
+      ],
+      "id": 18919,
+      "helfrich_price": 0,
+      "public_price": 0,
+      "sales_factor_sort": 1,
+      "name": "Balibaris",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 0
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Mon Stylo Français Valeur 30 € Valable jusqu'au 31/03/2024",
+          "detail": " Valable jusqu'au 31/03/2024",
+          "prices": {
+            "amount": "28.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mon Stylo Français Valeur 50 € Valable jusqu'au 31/03/2024",
+          "detail": " Valable jusqu'au 31/03/2024",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mon Stylo Français Valeur 80 € Valable jusqu'au 31/03/2024",
+          "detail": " Valable jusqu'au 31/03/2024",
+          "prices": {
+            "amount": "75.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mon Stylo Français Valeur 100 € Valable jusqu'au 31/03/2024",
+          "detail": " Valable jusqu'au 31/03/2024",
+          "prices": {
+            "amount": "94.00"
+          }
+        }
+      ],
+      "id": 42565,
+      "helfrich_price": 28.199999999999999,
+      "public_price": 30,
+      "sales_factor_sort": 1,
+      "name": "Mon Stylo Français",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte cadeau Madame Veut Des Roses Valeur 20 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "19.00"
+          }
+        },
+        {
+          "name": "E-carte cadeau Madame Veut Des Roses Valeur 50 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte cadeau Madame Veut Des Roses Valeur 100 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte cadeau Madame Veut Des Roses Valeur 150 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "142.50"
+          }
+        },
+        {
+          "name": "E-carte cadeau Madame Veut Des Roses Valeur 200 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "190.00"
+          }
+        },
+        {
+          "name": "E-carte cadeau Madame Veut Des Roses Valeur 300 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "285.00"
+          }
+        }
+      ],
+      "id": 42574,
+      "helfrich_price": 19,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 1,
+      "name": "Madame Veut Des Roses",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau TshirtCorner Valeur 10 € Valable jusqu'au 30/11/2022",
+          "detail": " Valable jusqu'au 30/11/2022",
+          "prices": {
+            "amount": "9.30"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau TshirtCorner Valeur 20 € Valable jusqu'au 30/11/2022",
+          "detail": " Valable jusqu'au 30/11/2022",
+          "prices": {
+            "amount": "18.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau TshirtCorner Valeur 30 € Valable jusqu'au 30/11/2022",
+          "detail": " Valable jusqu'au 30/11/2022",
+          "prices": {
+            "amount": "27.90"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau TshirtCorner Valeur 50 € Valable jusqu'au 30/11/2022",
+          "detail": " Valable jusqu'au 30/11/2022",
+          "prices": {
+            "amount": "46.50"
+          }
+        }
+      ],
+      "id": 42594,
+      "helfrich_price": 9.3000000000000007,
+      "public_price": 10,
+      "sales_factor_sort": 1,
+      "name": "TshirtCorner",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.3000000000000007
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Amazon Valeur 20 € Valable jusqu'au 31/07/2032",
+          "detail": " Valable jusqu'au 31/07/2032",
+          "prices": {
+            "amount": "20.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Amazon Valeur 50 € Valable jusqu'au 31/07/2032",
+          "detail": " Valable jusqu'au 31/07/2032",
+          "prices": {
+            "amount": "50.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Amazon Valeur 100 € Valable jusqu'au 31/07/2032",
+          "detail": " Valable jusqu'au 31/07/2032",
+          "prices": {
+            "amount": "100.00"
+          }
+        }
+      ],
+      "id": 18932,
+      "helfrich_price": 20,
+      "public_price": 20,
+      "sales_factor_sort": 6.3851648071345037,
+      "name": "Amazon",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 20
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Promod 30€ Valable jusqu'au 04/01/2024",
+          "detail": " Valable jusqu'au 04/01/2024",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Promod 50€ Valable jusqu'au 12/01/2025",
+          "detail": " Valable jusqu'au 12/01/2025",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Promod 100€ Valable jusqu'au 12/01/2025",
+          "detail": " Valable jusqu'au 12/01/2025",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Promod 80€ Valable jusqu'au 28/12/2022",
+          "detail": " Valable jusqu'au 28/12/2022",
+          "prices": {
+            "amount": "76.80"
+          }
+        }
+      ],
+      "id": 3538,
+      "helfrich_price": 28.800000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "Promod",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Etam 30€ Valable jusqu'au 02/03/2023",
+          "detail": " Valable jusqu'au 02/03/2023",
+          "prices": {
+            "amount": "27.60"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Etam 50€ Valable jusqu'au 16/06/2023",
+          "detail": " Valable jusqu'au 16/06/2023",
+          "prices": {
+            "amount": "46.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Etam 100€ Valable jusqu'au 02/03/2023",
+          "detail": " Valable jusqu'au 02/03/2023",
+          "prices": {
+            "amount": "92.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Etam 75€ Valable jusqu'au 03/11/2022",
+          "detail": " Valable jusqu'au 03/11/2022",
+          "prices": {
+            "amount": "69.00"
+          }
+        }
+      ],
+      "id": 5506,
+      "helfrich_price": 27.600000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "Etam",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 27.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau AM.PM Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau AM.PM Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau AM.PM Valeur 20 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau AM.PM Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        }
+      ],
+      "id": 18910,
+      "helfrich_price": 9.5999999999999996,
+      "public_price": 10,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "AM.PM",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.5999999999999996
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Place Des Tendances 75€ Valable jusqu'au 06/05/2023",
+          "detail": " Valable jusqu'au 06/05/2023",
+          "prices": {
+            "amount": "72.75"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Place Des Tendances 100€ Valable jusqu'au 06/05/2023",
+          "detail": " Valable jusqu'au 06/05/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Place Des Tendances 200€ Valable jusqu'au 23/05/2023",
+          "detail": " Valable jusqu'au 23/05/2023",
+          "prices": {
+            "amount": "194.00"
+          }
+        },
+        {
+          "name": "E-carte Offre Promo Place Des Tendances 50 € avec remise de 25 %",
+          "detail": "",
+          "prices": {
+            "amount": "37.50"
+          }
+        }
+      ],
+      "id": 20865,
+      "helfrich_price": 37.5,
+      "public_price": 50,
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "Place des Tendances",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 37.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "29.97",
+      "active_items": [
+        {
+          "name": "E-CARTE CADEAU DEEZER - Abo Premium 3 mois 29,97€ jusqu'au 18/07/2022",
+          "detail": "Code utilisable pour un Abonnement Premium 3 mois en vous connectant sur https://www.deezer.com/gift jusqu'au 18/07/2022",
+          "prices": {
+            "amount": "29.00"
+          }
+        },
+        {
+          "name": "Abonnement  6 mois Deezer Valable jusqu'au 08/03/2023",
+          "detail": " Valable jusqu'au 08/03/2023",
+          "prices": {
+            "amount": "57.90"
+          }
+        },
+        {
+          "name": "Abonnement 3 mois Deezer Valable jusqu'au 08/03/2023",
+          "detail": " Valable jusqu'au 08/03/2023",
+          "prices": {
+            "amount": "29.00"
+          }
+        }
+      ],
+      "id": 14950,
+      "helfrich_price": 29,
+      "public_price": 29.969999999999999,
+      "sales_factor_sort": 3.6457513110645907,
+      "name": "Deezer",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Wecandoo Valeur 30 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "29.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Wecandoo Valeur 50 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Wecandoo Valeur 75 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "73.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Wecandoo Valeur 100 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Wecandoo Valeur 120 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "117.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Wecandoo Valeur 200 € Valable jusqu'au 31/01/2023",
+          "detail": " Valable jusqu'au 31/01/2023",
+          "prices": {
+            "amount": "196.00"
+          }
+        }
+      ],
+      "id": 20416,
+      "helfrich_price": 29.399999999999999,
+      "public_price": 30,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Wecandoo",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 29.399999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-carte cadeau La Carte Française 50€ Valable jusqu'au 24/02/2023",
+          "detail": " Valable jusqu'au 24/02/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte cadeau La Carte Française 30€ Valable jusqu'au 24/02/2023",
+          "detail": " Valable jusqu'au 24/02/2023",
+          "prices": {
+            "amount": "28.50"
+          }
+        },
+        {
+          "name": "E-carte cadeau La Carte Française 100€ Valable jusqu'au 24/02/2023",
+          "detail": " Valable jusqu'au 24/02/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        }
+      ],
+      "id": 39973,
+      "helfrich_price": 28.5,
+      "public_price": 30,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "La Carte Française",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "100.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau THE OFFLINE valeur 100 € jusqu'au 23/03/2023",
+          "detail": "Pour réserver votre voyage et utiliser votre carte cadeau - Rendez-vous sur https://www.theoffline.fr/ jusqu'au 23/03/2023",
+          "prices": {
+            "amount": "90.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau THE OFFLINE valeur 200 € jusqu'au 23/03/2023",
+          "detail": "Pour réserver votre voyage et utiliser votre carte cadeau - Rendez-vous sur https://www.theoffline.fr/ jusqu'au 23/03/2023",
+          "prices": {
+            "amount": "180.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau THE OFFLINE valeur 300 € jusqu'au 23/03/2023",
+          "detail": "Pour réserver votre voyage et utiliser votre carte cadeau - Rendez-vous sur https://www.theoffline.fr/ jusqu'au 23/03/2023",
+          "prices": {
+            "amount": "270.00"
+          }
+        }
+      ],
+      "id": 40406,
+      "helfrich_price": 90,
+      "public_price": 100,
+      "sales_factor_sort": 1,
+      "name": "The Offline",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 90
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Pour de Bon Valeur 50 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Pour de Bon Valeur 60 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "57.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Pour de Bon Valeur 80 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Pour de Bon Valeur 100 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Pour de Bon Valeur 120 € Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "115.20"
+          }
+        }
+      ],
+      "id": 32336,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 1,
+      "name": "Pour de Bon",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Ta Surprise Valeur 20 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "19.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ta Surprise Valeur 50 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ta Surprise Valeur 100 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ta Surprise Valeur 150 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "142.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ta Surprise Valeur 200 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "190.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Ta Surprise Valeur 300 € Valable jusqu'au 30/11/2023",
+          "detail": " Valable jusqu'au 30/11/2023",
+          "prices": {
+            "amount": "285.00"
+          }
+        }
+      ],
+      "id": 42575,
+      "helfrich_price": 19,
+      "public_price": 20,
+      "sales_factor_sort": 1,
+      "name": "Ta Surprise",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau King Jouet 50€ Valable jusqu'au 06/12/2022",
+          "detail": " Valable jusqu'au 06/12/2022",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau King Jouet 20€ Valable jusqu'au 06/12/2022",
+          "detail": " Valable jusqu'au 06/12/2022",
+          "prices": {
+            "amount": "19.00"
+          }
+        }
+      ],
+      "id": 29299,
+      "helfrich_price": 19,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 5.4721359549995796,
+      "name": "King Jouet",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-CARTE CADEAU LA GRANDE RECRE 20€ Valable jusqu'au 14/05/2023",
+          "detail": " Valable jusqu'au 14/05/2023",
+          "prices": {
+            "amount": "19.00"
+          }
+        },
+        {
+          "name": "E-CARTE CADEAU LA GRANDE RECRE 50€ Valable jusqu'au 23/06/2023",
+          "detail": " Valable jusqu'au 23/06/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        }
+      ],
+      "id": 909,
+      "helfrich_price": 19,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 133,
+          "label": "Enfants"
+        }
+      ],
+      "sales_factor_sort": 5.1231056256176606,
+      "name": "La Grande Récré",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "universe_level_2": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Conforama Valable jusqu'au 30/09/2023",
+          "detail": " Valable jusqu'au 30/09/2023",
+          "prices": []
+        },
+        {
+          "name": "E-carte Cadeau Conforama Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Conforama Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Conforama Valeur 150 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "147.00"
+          }
+        }
+      ],
+      "id": 18936,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "universe": [
+        {
+          "id": 132,
+          "label": "Maison"
+        }
+      ],
+      "sales_factor_sort": 4.6055512754639896,
+      "name": "Conforama",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard"
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau ASOS 50€ Valable jusqu'au 08/04/2032",
+          "detail": " Valable jusqu'au 08/04/2032",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau ASOS 100€ Valable jusqu'au 08/04/2032",
+          "detail": " Valable jusqu'au 08/04/2032",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau ASOS 30€ Valable jusqu'au 08/04/2032",
+          "detail": " Valable jusqu'au 08/04/2032",
+          "prices": {
+            "amount": "28.50"
+          }
+        }
+      ],
+      "id": 19115,
+      "helfrich_price": 28.5,
+      "public_price": 30,
+      "sales_factor_sort": 4.6055512754639896,
+      "name": "Asos",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte cadeau IKKS 100€ Valable jusqu'au 28/01/2023",
+          "detail": " Valable jusqu'au 28/01/2023",
+          "prices": {
+            "amount": "93.00"
+          }
+        },
+        {
+          "name": "E-carte cadeau IKKS 50€ Valable jusqu'au 23/12/2022",
+          "detail": " Valable jusqu'au 23/12/2022",
+          "prices": {
+            "amount": "46.50"
+          }
+        }
+      ],
+      "id": 20426,
+      "helfrich_price": 46.5,
+      "public_price": 50,
+      "sales_factor_sort": 3.2360679774997898,
+      "name": "Ikks",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 46.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Cap Adrénaline 100€ Valable jusqu'au 31/12/2022",
+          "detail": " Valable jusqu'au 31/12/2022",
+          "prices": {
+            "amount": "90.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cap Adrénaline 50€ Valable jusqu'au 31/03/2024",
+          "detail": " Valable jusqu'au 31/03/2024",
+          "prices": {
+            "amount": "45.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cap Adrénaline 200€ Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "180.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cap Adrénaline 150€ Valable jusqu'au 31/03/2023",
+          "detail": " Valable jusqu'au 31/03/2023",
+          "prices": {
+            "amount": "135.00"
+          }
+        }
+      ],
+      "id": 24941,
+      "helfrich_price": 45,
+      "public_price": 50,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 3.2360679774997898,
+      "name": "Cap Adrénaline",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 45
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "30.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Cleor Valeur 30 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "28.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cleor Valeur 50 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cleor Valeur 100 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cleor Valeur 150 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "144.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cleor Valeur 200 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "192.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Cleor Valeur 300 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "288.00"
+          }
+        }
+      ],
+      "id": 32364,
+      "helfrich_price": 28.800000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 3.2360679774997898,
+      "name": "Cleor",
+      "non_pickup_item_count": 6,
+      "active_item_count": 6,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 28.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Swarovski 50€ Valable jusqu'au 01/04/2024",
+          "detail": " Valable jusqu'au 01/04/2024",
+          "prices": {
+            "amount": "45.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Swarovski 100€ Valable jusqu'au 01/04/2024",
+          "detail": " Valable jusqu'au 01/04/2024",
+          "prices": {
+            "amount": "90.00"
+          }
+        }
+      ],
+      "id": 42558,
+      "helfrich_price": 45,
+      "public_price": 50,
+      "sales_factor_sort": 3,
+      "name": "Swarovski",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 45
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Freemiumplay 30€ Valable jusqu'au 02/05/2023",
+          "detail": " Valable jusqu'au 02/05/2023",
+          "prices": {
+            "amount": "28.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Freemiumplay 20€ Valable jusqu'au 02/12/2022",
+          "detail": " Valable jusqu'au 02/12/2022",
+          "prices": {
+            "amount": "19.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Freemiumplay 50€ Valable jusqu'au 07/12/2022",
+          "detail": " Valable jusqu'au 07/12/2022",
+          "prices": {
+            "amount": "47.50"
+          }
+        }
+      ],
+      "id": 14952,
+      "helfrich_price": 19,
+      "public_price": 20,
+      "sales_factor_sort": 2.7320508075688772,
+      "name": "FreemiumPlay",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": 10,
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau VeryChic Valeur 50 € Valable jusqu'au 30/06/2024",
+          "detail": " Valable jusqu'au 30/06/2024",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau VeryChic Valeur 100 € Valable jusqu'au 30/06/2024",
+          "detail": " Valable jusqu'au 30/06/2024",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau VeryChic Valeur 20 € Valable jusqu'au 30/06/2024",
+          "detail": " Valable jusqu'au 30/06/2024",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau VeryChic Valable jusqu'au 31/08/2024",
+          "detail": " Valable jusqu'au 31/08/2024",
+          "prices": []
+        }
+      ],
+      "id": 18909,
+      "helfrich_price": 9.5999999999999996,
+      "public_price": 10,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "VeryChic",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 9.5999999999999996
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Mango Valeur 50 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "49.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mango Valeur 20 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "19.60"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mango Valeur 100 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "98.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mango Valeur 30 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "29.40"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Mango Valeur 80 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "78.40"
+          }
+        }
+      ],
+      "id": 18941,
+      "helfrich_price": 19.600000000000001,
+      "public_price": 20,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Mango",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.600000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "25.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau TheFork 100€ Valable jusqu'au 04/01/2023",
+          "detail": " Valable jusqu'au 04/01/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau TheFork 50€ Valable jusqu'au 04/01/2023",
+          "detail": " Valable jusqu'au 04/01/2023",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau TheFork 25€ Valable jusqu'au 04/01/2023",
+          "detail": " Valable jusqu'au 04/01/2023",
+          "prices": {
+            "amount": "23.75"
+          }
+        }
+      ],
+      "id": 33013,
+      "helfrich_price": 23.75,
+      "public_price": 25,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Thefork",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 23.75
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Back Market Valeur 50 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Back Market Valeur 70 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "67.90"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Back Market Valeur 100 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Back Market Valeur 150 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "145.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Back Market Valeur 200 € Valable jusqu'au 31/07/2023",
+          "detail": " Valable jusqu'au 31/07/2023",
+          "prices": {
+            "amount": "194.00"
+          }
+        }
+      ],
+      "id": 42595,
+      "helfrich_price": 48.5,
+      "public_price": 50,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "Back Market",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "10.00",
+      "active_items": [
+        {
+          "name": "E-CARTE CADEAU ARTESANE Cours Vidéo de Loisirs Créatifs VALEUR 10 €  jusqu'au 31/12/2026",
+          "detail": "Valable jusqu'au 31 Décembre 2025 et utilisable parmi 200 cours vidéo au choix sur artesane.com jusqu'au 31/12/2026",
+          "prices": {
+            "amount": "8.50"
+          }
+        },
+        {
+          "name": "E-CARTE CADEAU ARTESANE Cours Vidéo de Loisirs Créatifs VALEUR 50 €  jusqu'au 31/12/2026",
+          "detail": "Valable jusqu'au 31 Décembre 2025 et utilisable parmi 200 cours vidéo au choix sur artesane.com jusqu'au 31/12/2026",
+          "prices": {
+            "amount": "42.50"
+          }
+        }
+      ],
+      "id": 15212,
+      "helfrich_price": 8.5,
+      "public_price": 10,
+      "name": "Artesane - Cours Vidéo Loisirs Créatifs",
+      "non_pickup_item_count": 2,
+      "active_item_count": 2,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 8.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-carte Cadeau Cabane en l'Air 50€ Valable jusqu'au 20/10/2022",
+          "detail": " Valable jusqu'au 20/10/2022",
+          "prices": {
+            "amount": "47.50"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cabane en l'Air 100€ Valable jusqu'au 21/08/2023",
+          "detail": " Valable jusqu'au 21/08/2023",
+          "prices": {
+            "amount": "95.00"
+          }
+        },
+        {
+          "name": "E-carte Cadeau Cabane en l'Air 200€ Valable jusqu'au 07/07/2023",
+          "detail": " Valable jusqu'au 07/07/2023",
+          "prices": {
+            "amount": "190.00"
+          }
+        }
+      ],
+      "id": 21120,
+      "helfrich_price": 47.5,
+      "public_price": 50,
+      "name": "La Cabane en l'Air",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 47.5
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "22.00",
+      "active_items": [
+        {
+          "name": "E-carte cadeau Petit Bambou 12 mois Valable jusqu'au 26/03/2024",
+          "detail": " Valable jusqu'au 26/03/2024",
+          "prices": {
+            "amount": "54.00"
+          }
+        },
+        {
+          "name": "E-carte cadeau Petit Bambou 3 mois Valable jusqu'au 26/03/2024",
+          "detail": " Valable jusqu'au 26/03/2024",
+          "prices": {
+            "amount": "19.80"
+          }
+        },
+        {
+          "name": "E-carte cadeau Petit Bambou 6 mois Valable jusqu'au 28/04/2023",
+          "detail": " Valable jusqu'au 28/04/2023",
+          "prices": {
+            "amount": "37.80"
+          }
+        }
+      ],
+      "id": 21135,
+      "helfrich_price": 19.800000000000001,
+      "public_price": 22,
+      "name": "Petit BamBou",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Sommelier du Parfum Valeur 20 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "18.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sommelier du Parfum Valeur 50 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Sommelier du Parfum Valeur 100 € Valable jusqu'au 31/12/2023",
+          "detail": " Valable jusqu'au 31/12/2023",
+          "prices": {
+            "amount": "94.00"
+          }
+        }
+      ],
+      "id": 42566,
+      "helfrich_price": 18.800000000000001,
+      "public_price": 20,
+      "name": "Sommelier du Parfum",
+      "non_pickup_item_count": 3,
+      "active_item_count": 3,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Bapheus Valeur 20 € Valable jusqu'au 31/03/2025",
+          "detail": " Valable jusqu'au 31/03/2025",
+          "prices": {
+            "amount": "19.20"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Bapheus Valeur 50 € Valable jusqu'au 31/03/2025",
+          "detail": " Valable jusqu'au 31/03/2025",
+          "prices": {
+            "amount": "48.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Bapheus Valeur 80 € Valable jusqu'au 31/03/2025",
+          "detail": " Valable jusqu'au 31/03/2025",
+          "prices": {
+            "amount": "76.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Bapheus Valeur 100 € Valable jusqu'au 31/03/2025",
+          "detail": " Valable jusqu'au 31/03/2025",
+          "prices": {
+            "amount": "96.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Bapheus Valeur 200 € Valable jusqu'au 31/03/2025",
+          "detail": " Valable jusqu'au 31/03/2025",
+          "prices": {
+            "amount": "192.00"
+          }
+        }
+      ],
+      "id": 42607,
+      "helfrich_price": 19.199999999999999,
+      "public_price": 20,
+      "sales_factor_sort": 1,
+      "name": "Bapheus",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 19.199999999999999
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "20.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Jaiio Valeur 20 € Valable jusqu'au 31/05/2025",
+          "detail": " Valable jusqu'au 31/05/2025",
+          "prices": {
+            "amount": "18.80"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Jaiio Valeur 50 € Valable jusqu'au 31/05/2025",
+          "detail": " Valable jusqu'au 31/05/2025",
+          "prices": {
+            "amount": "47.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Jaiio Valeur 100 € Valable jusqu'au 31/05/2025",
+          "detail": " Valable jusqu'au 31/05/2025",
+          "prices": {
+            "amount": "94.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Jaiio Valeur 200 € Valable jusqu'au 31/05/2025",
+          "detail": " Valable jusqu'au 31/05/2025",
+          "prices": {
+            "amount": "188.00"
+          }
+        }
+      ],
+      "id": 42609,
+      "helfrich_price": 18.800000000000001,
+      "public_price": 20,
+      "sales_factor_sort": 1,
+      "name": "Jaiio",
+      "non_pickup_item_count": 4,
+      "active_item_count": 4,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 18.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "type": "aggregate",
+      "recommended_price": "50.00",
+      "active_items": [
+        {
+          "name": "E-Carte Cadeau Totemia Valeur 50 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "48.50"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Totemia Valeur 100 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "97.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Totemia Valeur 200 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "194.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Totemia Valeur 300 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "291.00"
+          }
+        },
+        {
+          "name": "E-Carte Cadeau Totemia Valeur 500 € Valable jusqu'au 30/04/2023",
+          "detail": " Valable jusqu'au 30/04/2023",
+          "prices": {
+            "amount": "485.00"
+          }
+        }
+      ],
+      "id": 42619,
+      "helfrich_price": 48.5,
+      "public_price": 50,
+      "sales_factor_sort": 1,
+      "name": "Totemia",
+      "non_pickup_item_count": 5,
+      "active_item_count": 5,
+      "aggregate_type": "giftcard",
+      "price_with_subvention": 48.5
+    }
+  },
+  {
+    "_source": {
+      "regions": [
+        1
+      ],
+      "recommended_price": "8.00",
+      "zip_code": "69002",
+      "id": 1166723,
+      "helfrich_price": 7.2000000000000002,
+      "public_price": 8,
+      "sales_factor_sort": 6.0990195135927845,
+      "name": "E-Bon d'Achat POTAGER CITY d'une valeur de 8 €",
+      "supplier4_catalogue": "Parc & Loisirs",
+      "locations": [
+        {
+          "area": "Lyon",
+          "name": "Potager City\r\n",
+          "city": "Lyon",
+          "zip_code": "69002",
+          "coordinates": {
+            "lat": "45.73930115315481\r\n",
+            "lon": " 4.814544540289273"
+          }
+        }
+      ],
+      "price_with_subvention": 7.2000000000000002
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "10.00",
+      "id": 2067851,
+      "helfrich_price": 9.6999999999999993,
+      "public_price": 10,
+      "sales_factor_sort": 4.6055512754639896,
+      "name": "E-carte Cadeau Spotify 10€ Valable jusqu'au 01/06/2023",
+      "price_with_subvention": 9.6999999999999993
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "50.00",
+      "id": 2092273,
+      "helfrich_price": 48,
+      "public_price": 50,
+      "sales_factor_sort": 9.3066238629180749,
+      "name": "CARTE CADEAU CORA - VALEUR 50 € - VALABLE JUSQU'AU 31/12/2022",
+      "price_with_subvention": 48
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "20.00",
+      "universe_level_2": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "id": 1811904,
+      "helfrich_price": 18,
+      "public_price": 20,
+      "universe": [
+        {
+          "id": 131,
+          "label": "Sport & Bien-être"
+        }
+      ],
+      "sales_factor_sort": 9.9442719099991592,
+      "name": "CHEQUE CADEAU AU VIEUX CAMPEUR - VALEUR 20 € - VALIDITE AU 01/02/2023",
+      "price_with_subvention": 18
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "25.00",
+      "id": 1794401,
+      "helfrich_price": 25,
+      "public_price": 25,
+      "sales_factor_sort": 6.2915026221291814,
+      "name": "E-carte Netflix 25€ Valable jusqu'au 01/06/2024",
+      "price_with_subvention": 25
+    }
+  },
+  {
+    "_source": {
+      "id": 2317599,
+      "helfrich_price": 14.4,
+      "public_price": 15,
+      "sales_factor_sort": 4.3166247903553998,
+      "name": "E-bon d'achat Uber Eats valeur 15 € Valable jusqu'au 03/12/2022",
+      "price_with_subvention": 14.4
+    }
+  },
+  {
+    "_source": {
+      "id": 2579863,
+      "helfrich_price": 49,
+      "public_price": 50,
+      "sales_factor_sort": 2.4142135623730949,
+      "name": "E-Carte Cadeau Airbnb Valable jusqu'au 31/01/2050",
+      "price_with_subvention": 49
+    }
+  },
+  {
+    "_source": {
+      "id": 2579865,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "sales_factor_sort": 1,
+      "name": "E-Carte Cadeau Primark Valable jusqu'au 31/08/2024"
+    }
+  },
+  {
+    "_source": {
+      "recommended_price": "30.00",
+      "id": 1372980,
+      "helfrich_price": 28.800000000000001,
+      "public_price": 30,
+      "sales_factor_sort": 6.6568542494923806,
+      "name": "CARTE CADEAU PRINTEMPS - VALEUR 30 € - VALABLE JUSQU'AU 30/04/2023",
+      "price_with_subvention": 28.800000000000001
+    }
+  },
+  {
+    "_source": {
+      "id": 2317600,
+      "helfrich_price": 14.1,
+      "public_price": 15,
+      "sales_factor_sort": 2.7320508075688772,
+      "name": "E-bon d'achat Uber VTC valeur 15 € Valable jusqu'au 12/08/2022",
+      "price_with_subvention": 14.1
+    }
+  },
+  {
+    "_source": {
+      "id": 2579864,
+      "helfrich_price": 9.8000000000000007,
+      "public_price": 10,
+      "name": "E-Carte Cadeau ChaussExpo Valable jusqu'au 31/03/2023"
+    }
+  }
+]
