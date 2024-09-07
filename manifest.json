@@ -5,7 +5,9 @@
   "manifest_version": 3,
   "permissions": ["storage", "activeTab", "alarms","scripting", "notifications", "contextMenus"],
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "background.js",
+    "type": "module"
+
 
   },
   "host_permissions": [

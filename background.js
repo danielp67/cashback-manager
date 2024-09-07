@@ -8,6 +8,8 @@ chrome.runtime.onMessage.addListener(data => {
     }
 });
 */
+
+//console.log(hello)
 let label = ["website", "thecorner", "macif", "advango", "igraal", "widilo"]
 
 
@@ -100,27 +102,27 @@ let data = await fetchData()
 return data
 }
 
-
+async function listen()
+{
+    let result = await fetchDataBG()
+    let text = result===0 || isNaN(result) ? '' : ""+ result +""
+    chrome.action.setBadgeText({text: text,});
+    chrome.action.setBadgeBackgroundColor({color: '#fc8181',});
+}
 
 chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
     if(changeInfo.status==="complete")
     {
-        let result = await fetchDataBG()
-        let text = result===0 ? '' : result.toString()
-            chrome.action.setBadgeText({text: text,});
-            chrome.action.setBadgeBackgroundColor({color: '#81b1fc',});
+        await listen()
     }
 
 });
 
 
 
-chrome.tabs.onActivated.addListener(async (tabId, changeInfo, tab) => {
+chrome.tabs.onActivated.addListener(async () => {
 
-    let result = await fetchDataBG()
-    let text = result===0 ? '' : result.toString()
-    chrome.action.setBadgeText({text: text,});
-    chrome.action.setBadgeBackgroundColor({color: '#81b1fc',});
+   await listen()
 
 });
 

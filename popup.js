@@ -1,5 +1,3 @@
-let popup = document.getElementById("popup");
-let site = document.getElementById("site");
 let label = ["website", "thecorner", "macif", "advango", "igraal", "widilo"]
 let match = false
 let count = 0
