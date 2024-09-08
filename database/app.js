@@ -1,9 +1,10 @@
 // Reading the file using default
+//cmd :  node app.js
 // fs npm package
 const paramTrue = "x"
 const paramFalse = ""
 const fs = require("fs");
-csv = fs.readFileSync("data.csv")
+csv = fs.readFileSync("2024_data.csv")
 
 // Convert the data to String and
 // split it in an array
@@ -52,13 +53,13 @@ for (let i = 1; i < array.length; i++) {
 // traverse to a String s
     let flag = 0
     for (let ch of str) {
-        if (ch === '"' && flag === 0) {
+        if (ch === "'" && flag === 0) {
             flag = 1
 
         }
-        else if (ch === '"' && flag == 1) flag = 0
+        else if (ch === "'" && flag == 1) flag = 0
         if (ch === ';' && flag === 0) ch = '|'
-        if (ch !== '"') s += ch
+        if (ch !== "'") s += ch
 
 
     }
@@ -72,22 +73,24 @@ for (let i = 1; i < array.length; i++) {
     for (let a=0; a<propertiestmp.length;a++)
     {
         let parse = propertiestmp[a]
-        if(parseInt(propertiestmp[a]))
+
+        if(a===0)
+        {
+            parse = parseInt(propertiestmp[a])
+        }
+        if(a===1 || a===2 || a===4)
         {
 
-            parse = parseInt(propertiestmp[a])
-
-        }else if (propertiestmp[a]===paramTrue){
-            parse=true
-
+            parse = propertiestmp[a]
         }
-        else if (propertiestmp[a]===paramFalse){
-            parse=false
 
+        if(a===3 && propertiestmp[a]!=="")
+        {
+
+            parse = true
         }
+
         properties.push(parse)
-
-
     }
 
 // For each header, if the value contains
